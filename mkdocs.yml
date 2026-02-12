@@ -1,0 +1,39 @@
+site_name: AsiaJCIS 2026 - The 21st Asia Joint Conference on Information Security
+site_url: https://asiajcis.org/
+theme:
+  name: mkdocs
+  custom_dir: overrides
+  nav_style: dark
+
+nav:
+  - Home:
+    - AsiaJCIS 2026: 2026/index.md
+    - Past Conferences: index.md
+  - Call for Papers:
+    - Call for Papers: 2026/cfp.md
+    - Call for Posters: 2026/cfp-posters.md
+    - Submission: 2026/submission.md
+  - Attending:
+    - Registration: 2026/registration.md
+    - Venue: 2026/venue.md
+    - Accommodation: 2026/accommodation.md
+  - Organization:
+    - Committee: 2026/committee.md
+    - Sponsors: 2026/sponsors.md
+  - Program:
+    - Program: 2026/program.md
+    - Keynotes: 2026/keynotes.md
+    - Accepted Papers: 2026/accepted-papers.md
+    - Accepted Posters: 2026/accepted-posters.md
+    - Awards: 2026/awards.md
+
+markdown_extensions:
+  - tables
+  - admonition
+  - attr_list
+
+plugins:
+  - search
+
+extra_css:
+  - css/custom.css
