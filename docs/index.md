@@ -3,43 +3,46 @@
 
 # AsiaJCIS - Asia Joint Conference on Information Security
 
-The **Asia Joint Conference on Information Security (AsiaJCIS)** is one of the premier international academic exchange events in the field of information security in the Asian region.
+The **Asia Joint Conference on Information Security (AsiaJCIS)** is one of the premier international academic exchange events in the field of information security in the Asian region, jointly organized by the security communities of Japan, Korea, Taiwan, and China.
 
 ---
 
 ## Current Conference
 
-### [AsiaJCIS 2026 - The 21st Asia Joint Conference on Information Security](2026/index.md)
+### [AsiaJCIS 2027 - The 22nd Asia Joint Conference on Information Security](2027/index.md)
 
-**Date:** TBD, 2026
-**Venue:** TBD
+**Host:** Juntendo University, Japan
+**Date:** TBD, August 2027
 
 ---
 
 ## Past Conferences
 
-| Year | Edition | Location | Website |
-|------|---------|----------|---------|
-| 2025 | 20th | Seoul, Korea | [asiajcis2025.sch.ac.kr](https://asiajcis2025.sch.ac.kr/) |
-| 2024 | 19th | Tainan, Taiwan | [asiajcis2024.web2.ncku.edu.tw](https://asiajcis2024.web2.ncku.edu.tw/) |
-| 2023 | 18th | Tokyo, Japan | [asiajcis2023.nict.go.jp](https://asiajcis2023.nict.go.jp/) |
-| 2022 | 17th | — | — |
-| 2021 | 16th | — | — |
-| 2020 | 15th | — | — |
-| 2019 | 14th | — | — |
-| 2018 | 13th | — | — |
-| 2017 | 12th | — | — |
-| 2016 | 11th | — | — |
-| 2015 | 10th | — | — |
-| 2014 | 9th  | — | — |
-| 2013 | 8th  | — | — |
-| 2012 | 7th  | — | — |
-| 2011 | 6th  | — | — |
-| 2010 | 5th  | — | — |
-| 2009 | 4th  | — | — |
-| 2008 | 3rd  | — | — |
-| 2007 | 2nd  | — | — |
-| 2006 | 1st  | — | — |
+Archived copies are local static snapshots of each year's official site, kept here for reference.
+
+| Year | Edition | Location | Official Site | Archive |
+|------|---------|----------|---------------|---------|
+| 2026 | 21st | Dongguan, China | [asiajcis2026.gdust.edu.cn](https://asiajcis2026.gdust.edu.cn/) | [archived](archive/2026-china/index.html) |
+| 2025 | 20th | Seoul, Korea | [asiajcis2025.sch.ac.kr](https://asiajcis2025.sch.ac.kr/) | [archived](archive/2025-korea/index.html) |
+| 2024 | 19th | Tainan, Taiwan | [asiajcis2024.web2.ncku.edu.tw](https://asiajcis2024.web2.ncku.edu.tw/) | [archived](archive/2024-taiwan/index.html) |
+| 2023 | 18th | Tokyo, Japan | [asiajcis2023.nict.go.jp](https://asiajcis2023.nict.go.jp/) | [archived](archive/2023-japan/index.html) |
+| 2022 | 17th | — | — | — |
+| 2021 | 16th | — | — | — |
+| 2020 | 15th | — | — | — |
+| 2019 | 14th | — | — | — |
+| 2018 | 13th | — | — | — |
+| 2017 | 12th | — | — | — |
+| 2016 | 11th | — | — | — |
+| 2015 | 10th | — | — | — |
+| 2014 | 9th  | — | — | — |
+| 2013 | 8th  | — | — | — |
+| 2012 | 7th  | — | — | — |
+| 2011 | 6th  | — | — | — |
+| 2010 | 5th  | — | — | — |
+| 2009 | 4th  | — | — | — |
+| 2008 | 3rd  | — | — | — |
+| 2007 | 2nd  | — | — | — |
+| 2006 | 1st  | — | — | — |
 
 ---
 

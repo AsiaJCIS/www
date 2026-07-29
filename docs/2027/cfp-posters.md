@@ -1,8 +1,8 @@
 # Call for Posters
 
-## AsiaJCIS 2026
+## AsiaJCIS 2027
 
-AsiaJCIS 2026 invites poster submissions showcasing ongoing research, preliminary results, and innovative ideas in information security.
+AsiaJCIS 2027 invites poster submissions showcasing ongoing research, preliminary results, and innovative ideas in information security.
 
 ### Submission Guidelines
 

@@ -1,6 +1,6 @@
 # Awards
 
-## AsiaJCIS 2026
+## AsiaJCIS 2027
 
 !!! info "Coming Soon"
     Award winners will be announced at the conference.

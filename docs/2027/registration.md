@@ -1,6 +1,6 @@
 # Registration
 
-## AsiaJCIS 2026
+## AsiaJCIS 2027
 
 !!! warning "Not Yet Open"
     Registration will open soon.

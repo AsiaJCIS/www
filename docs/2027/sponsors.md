@@ -1,6 +1,6 @@
 # Sponsors
 
-## AsiaJCIS 2026
+## AsiaJCIS 2027
 
 ### Sponsorship Opportunities
 

@@ -17,10 +17,9 @@ div[role="main"] {
     margin: 0 auto;
 }
 
-/* ヒーローセクション */
+/* ヒーローセクション（年度中立のグラデーション。画像非依存） */
 .hero {
-    background: linear-gradient(rgba(0, 0, 0, 0.45), rgba(0, 0, 0, 0.45)),
-                url('../assets/images/hero-guangzhou.jpg') center/cover no-repeat;
+    background: linear-gradient(135deg, #1a3a5c 0%, #2c5f8a 55%, #3d7ea6 100%);
     color: #fff;
     text-align: center;
     padding: 80px 20px;

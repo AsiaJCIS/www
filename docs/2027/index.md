@@ -2,14 +2,14 @@
     This is NOT the official website. This page is currently under construction and is not the formal version.
 
 <div class="hero">
-  <h1>AsiaJCIS 2026</h1>
-  <p class="hero-subtitle">The 21st Asia Joint Conference on Information Security</p>
-  <p class="hero-info">Guangzhou, China | TBD, 2026</p>
+  <h1>AsiaJCIS 2027</h1>
+  <p class="hero-subtitle">The 22nd Asia Joint Conference on Information Security</p>
+  <p class="hero-info">Juntendo University, Japan | TBD, August 2027</p>
 </div>
 
 ## Welcome
 
-Welcome to AsiaJCIS 2026, the 21st Asia Joint Conference on Information Security. AsiaJCIS is one of the crucial international academic exchange events in the field of information security in the Asian region.
+Welcome to AsiaJCIS 2027, the 22nd Asia Joint Conference on Information Security. AsiaJCIS is one of the crucial international academic exchange events in the field of information security in the Asian region.
 
 This conference focuses on the technical and practical aspects of security applications and serves as a forum to present new results from the academic research community and the industry.
 
@@ -20,10 +20,9 @@ This conference focuses on the technical and practical aspects of security appli
 | Event | Date |
 |-------|------|
 | Paper Submission Deadline | TBD |
-| Poster Submission Deadline | TBD |
 | Notification of Acceptance | TBD |
 | Camera-Ready Deadline | TBD |
-| Conference Dates | TBD, 2026 |
+| Conference Dates | TBD, August 2027 |
 
 ---
 
@@ -36,9 +35,9 @@ This conference focuses on the technical and practical aspects of security appli
 
 ## Organizers
 
-- **General Chairs:** TBD
-- **Program Chairs:** TBD
-- **Local Arrangement Chairs:** TBD
+- **General Co-Chairs:** TBD
+- **Program Co-Chairs:** TBD
+- **Local Organization Chair:** Rui Tanabe (Juntendo University)
 
 ---
 

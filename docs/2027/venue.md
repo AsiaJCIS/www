@@ -1,10 +1,10 @@
 # Venue
 
-## AsiaJCIS 2026
+## AsiaJCIS 2027
 
 ### Conference Venue
 
-TBD
+Juntendo University, Japan
 
 ### Access
 

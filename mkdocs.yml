@@ -1,5 +1,5 @@
-site_name: AsiaJCIS 2026 - The 21st Asia Joint Conference on Information Security
-site_url: https://asiajcis.org/
+site_name: AsiaJCIS - Asia Joint Conference on Information Security
+site_url: https://asiajcis.github.io/www/
 theme:
   name: mkdocs
   custom_dir: overrides
@@ -7,25 +7,30 @@ theme:
 
 nav:
   - Home:
-    - AsiaJCIS 2026: 2026/index.md
+    - AsiaJCIS 2027: 2027/index.md
     - Past Conferences: index.md
   - Call for Papers:
-    - Call for Papers: 2026/cfp.md
-    - Call for Posters: 2026/cfp-posters.md
-    - Submission: 2026/submission.md
+    - Call for Papers: 2027/cfp.md
+    - Call for Posters: 2027/cfp-posters.md
+    - Submission: 2027/submission.md
   - Attending:
-    - Registration: 2026/registration.md
-    - Venue: 2026/venue.md
-    - Accommodation: 2026/accommodation.md
+    - Registration: 2027/registration.md
+    - Venue: 2027/venue.md
+    - Accommodation: 2027/accommodation.md
   - Organization:
-    - Committee: 2026/committee.md
-    - Sponsors: 2026/sponsors.md
+    - Committee: 2027/committee.md
+    - Sponsors: 2027/sponsors.md
   - Program:
-    - Program: 2026/program.md
-    - Keynotes: 2026/keynotes.md
-    - Accepted Papers: 2026/accepted-papers.md
-    - Accepted Posters: 2026/accepted-posters.md
-    - Awards: 2026/awards.md
+    - Program: 2027/program.md
+    - Keynotes: 2027/keynotes.md
+    - Accepted Papers: 2027/accepted-papers.md
+    - Accepted Posters: 2027/accepted-posters.md
+    - Awards: 2027/awards.md
+
+# 過去大会の静的ミラー（docs/archive/**）は nav に載せない。
+# ビルド・公開はされるが、テーマ描画されず「nav 未収録」警告も出ない（--strict でも通す）。
+not_in_nav: |
+  /archive/**
 
 markdown_extensions:
   - tables

@@ -1,10 +1,10 @@
 # Submission
 
-## AsiaJCIS 2026
+## AsiaJCIS 2027
 
 ### Paper Submission
 
-- Submission system: TBD (e.g., EasyChair)
+- Submission system: TBD (EasyChair)
 - Format: IEEE conference format
 - Page limit: up to 8 pages including references
 

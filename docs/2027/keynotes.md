@@ -1,6 +1,6 @@
 # Keynote & Invited Talks
 
-## AsiaJCIS 2026
+## AsiaJCIS 2027
 
 !!! info "Coming Soon"
     Keynote speakers will be announced soon.

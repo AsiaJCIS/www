@@ -1,6 +1,6 @@
 # Program
 
-## AsiaJCIS 2026
+## AsiaJCIS 2027
 
 !!! info "Coming Soon"
     The detailed program will be announced after paper acceptance notification.
