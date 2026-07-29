@@ -1,0 +1,536 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <meta name="viewport" content="width=device-width, initial-scale=1.0">
+  <title>Venue Info – AsiaJCIS 2026</title>
+  <link href="vendor/bootstrap.min.css" rel="stylesheet">
+  <link href="vendor/bootstrap-icons.min.css" rel="stylesheet">
+  <link href="vendor/inter.css" rel="stylesheet">
+  <link rel="stylesheet" href="css/style.css">
+  <style>
+    /* Route cards */
+    .route-card {
+      border: 1px solid #d0dff8;
+      border-radius: 12px;
+      padding: 20px 22px;
+      margin-bottom: 16px;
+      background: #f8faff;
+      transition: box-shadow .2s;
+    }
+    .route-card:hover { box-shadow: 0 4px 18px rgba(26,58,107,.10); }
+    .route-card .route-title {
+      font-weight: 700;
+      color: var(--primary);
+      margin-bottom: 12px;
+      font-size: .97rem;
+    }
+
+    /* Step arrow chain */
+    .route-steps {
+      display: flex;
+      flex-wrap: wrap;
+      align-items: center;
+      gap: 6px;
+      margin-bottom: 12px;
+    }
+    .route-step {
+      display: inline-flex;
+      align-items: center;
+      gap: 5px;
+      background: var(--primary);
+      color: #fff;
+      border-radius: 6px;
+      padding: 4px 10px;
+      font-size: .78rem;
+      font-weight: 600;
+      white-space: nowrap;
+    }
+    .route-step.accent  { background: var(--accent); }
+    .route-step.accent2 { background: var(--accent2); }
+    .route-step.green   { background: #28a745; }
+    .route-arrow {
+      color: #aab4c8;
+      font-size: 1rem;
+      flex-shrink: 0;
+    }
+
+    /* Transport tag */
+    .transport-tag {
+      display: inline-block;
+      border-radius: 20px;
+      padding: 2px 10px;
+      font-size: .73rem;
+      font-weight: 700;
+      margin: 2px 3px 2px 0;
+    }
+    .tag-taxi   { background:#fff3cd; color:#856404; border:1px solid #ffc107; }
+    .tag-train  { background:#d1ecf1; color:#0c5460; border:1px solid #17a2b8; }
+
+    /* Map notice */
+    .map-notice {
+      background: #fff8e1;
+      border: 1px solid #ffe082;
+      border-radius: 10px;
+      padding: 14px 18px;
+      font-size: .88rem;
+      color: #5d4037;
+    }
+
+    /* Hotel card */
+    .hotel-card {
+      border: none;
+      border-radius: 12px;
+      overflow: hidden;
+      box-shadow: 0 4px 20px rgba(26,58,107,.10);
+      transition: transform .25s, box-shadow .25s;
+    }
+    .hotel-card:hover {
+      transform: translateY(-3px);
+      box-shadow: 0 8px 28px rgba(26,58,107,.16);
+    }
+
+    /* Section anchor offset for sticky nav */
+    .section-anchor { scroll-margin-top: 90px; }
+  </style>
+</head>
+<body>
+  <script src="js/nav.js"></script>
+
+  <div class="page-hero">
+    <div class="container">
+      <h1><i class="bi bi-geo-alt me-2"></i>Venue Info</h1>
+      <nav aria-label="breadcrumb">
+        <ol class="breadcrumb mb-0">
+          <li class="breadcrumb-item"><a href="index.html">Home</a></li>
+          <li class="breadcrumb-item">Registration</li>
+          <li class="breadcrumb-item active">Venue Info</li>
+        </ol>
+      </nav>
+    </div>
+  </div>
+
+  <main class="py-5">
+    <div class="container-xl">
+      <div class="row g-5">
+
+        <!-- ══════════════════ MAIN CONTENT ══════════════════ -->
+        <div class="col-lg-8">
+
+          <!-- ── 1. Venue ── -->
+          <section id="venue" class="mb-5 section-anchor">
+            <h2 class="section-title">Conference Venue</h2>
+
+            <!-- Venue images -->
+            <div class="row g-3 mb-4">
+              <div class="col-sm-6">
+                <img src="https://asiajcis2026.sch.ac.kr/images/venue_exterior.png"
+                     alt="GDUST Campus Exterior"
+                     class="img-fluid rounded shadow-sm w-100"
+                     style="height:210px;object-fit:cover;"
+                     onerror="this.parentElement.style.display='none'">
+              </div>
+              <div class="col-sm-6">
+                <img src="https://asiajcis2026.sch.ac.kr/images/venue_room.png"
+                     alt="Conference Room"
+                     class="img-fluid rounded shadow-sm w-100"
+                     style="height:210px;object-fit:cover;"
+                     onerror="this.parentElement.style.display='none'">
+              </div>
+            </div>
+
+            <!-- Address cards -->
+            <div class="row g-3 mb-4">
+              <div class="col-sm-6">
+                <div class="card border-0 shadow-sm h-100">
+                  <div class="card-body">
+                    <h6 class="fw-bold text-muted small text-uppercase mb-2">
+                      <i class="bi bi-geo me-1"></i>Conference Room
+                    </h6>
+                    <p class="fw-bold mb-1" style="color:var(--primary);">Room 201, Administration Building</p>
+                    <p class="mb-1 small">Songshan Lake Campus</p>
+                    <p class="mb-1 small">Guangdong University of Science and Technology</p>
+                    <p class="text-muted small mb-0">Dongguan, Guangdong, China</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-6">
+                <div class="card border-0 shadow-sm h-100">
+                  <div class="card-body">
+                    <h6 class="fw-bold text-muted small text-uppercase mb-2">
+                      <i class="bi bi-translate me-1"></i>中文地址
+                    </h6>
+                    <p class="fw-bold mb-1" style="color:var(--primary);">广东科技学院松山湖校区</p>
+                    <p class="small mb-0">行政楼 201 会议室</p>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-6">
+                <div class="card border-0 shadow-sm h-100">
+                  <div class="card-body">
+                    <h6 class="fw-bold text-muted small text-uppercase mb-2">
+                      <i class="bi bi-calendar3 me-1"></i>Conference Date
+                    </h6>
+                    <p class="fw-bold mb-0" style="color:var(--primary);">August 4–5, 2026</p>
+                  </div>
+                </div>
+              </div>
+              
+            </div>
+          </section>
+
+          <!-- ── 2. Map ── -->
+          <section id="map" class="mb-5 section-anchor">
+            <h2 class="section-title"><i class="bi bi-map me-2" style="color:var(--accent);"></i>Location &amp; Map</h2>
+
+            <!-- Map notice -->
+            <div class="map-notice mb-3 d-flex gap-2 align-items-start">
+              <i class="bi bi-info-circle-fill flex-shrink-0 mt-1" style="color:#f59e0b;"></i>
+              <div>
+                <strong>Note on Maps in China:</strong>
+                Google Maps is no longer supported in mainland China. The link below provides an approximate location only.
+                <strong>We recommend using <a href="https://maps.amap.com/" target="_blank" rel="noopener" class="text-decoration-none fw-bold" style="color:var(--primary);">Gaode Maps (高德地图)</a></strong> if you are travelling within China.
+                <br><span class="text-muted" style="font-size:.82rem;">We are preparing more detailed location guidance including screenshots and geolocation tips — check back closer to the conference.</span>
+              </div>
+            </div>
+
+            <div class="d-flex flex-wrap gap-2 mb-3">
+              <a href="https://maps.app.goo.gl/j6jzvgPiDJuHDqAR7" target="_blank" rel="noopener"
+                 class="btn btn-outline-secondary btn-sm">
+                <i class="bi bi-google me-1"></i>Google Maps (approximate)
+              </a>
+              <a href="https://uri.amap.com/search?keyword=广东科技学院松山湖校区&city=dongguan" target="_blank" rel="noopener"
+                 class="btn btn-sm text-white" style="background:#1aab8a;">
+                <i class="bi bi-map me-1"></i>高德地图 Gaode Maps
+              </a>
+            </div>
+          </section>
+
+          <!-- ── 3. Accommodation ── -->
+          <section id="hotel" class="mb-5 section-anchor">
+            <h2 class="section-title"><i class="bi bi-house-heart me-2" style="color:var(--accent);"></i>Recommended Hotel</h2>
+
+            <div class="hotel-card card">
+              <div class="row g-0">
+                <div class="col-md-4 d-flex align-items-center justify-content-center p-4"
+                     style="background:linear-gradient(135deg, var(--primary) 0%, #2c5282 100%); min-height:140px;">
+                  <div class="text-center text-white">
+                    <i class="bi bi-building" style="font-size:2.8rem; opacity:.7;"></i>
+                    <div class="fw-bold mt-2" style="font-size:1rem;">Lavande Hotel</div>
+                    <div style="font-size:.78rem; opacity:.75;">★★★ Recommended</div>
+                  </div>
+                </div>
+                <div class="col-md-8">
+                  <div class="card-body p-4">
+                    <h5 class="fw-bold mb-1" style="color:var(--primary);">Lavande Hotel</h5>
+                    <p class="text-muted small mb-3">Conveniently located near the conference venue.</p>
+                    <a href="https://hk.trip.com/hotels/dongguan-hotel-detail-100982301/lavande-hotel/"
+                       target="_blank" rel="noopener"
+                       class="btn btn-primary-custom btn-sm px-4">
+                      <i class="bi bi-box-arrow-up-right me-1"></i>Book on Trip.com
+                    </a>
+                    <p class="text-muted small mt-3 mb-0">
+                      <i class="bi bi-info-circle me-1"></i>
+                      More hotel options are available on
+                      <a href="https://www.trip.com/" target="_blank" rel="noopener">Trip.com</a>.
+                    </p>
+                  </div>
+                </div>
+              </div>
+            </div>
+          </section>
+
+          <!-- ── 4. Getting Here ── -->
+          <section id="travel" class="section-anchor">
+            <h2 class="section-title"><i class="bi bi-signpost-split me-2" style="color:var(--accent);"></i>Getting to the Venue</h2>
+
+            <!-- Booking resources -->
+            <div class="row g-3 mb-4">
+              <div class="col-sm-6">
+                <div class="card border-0 shadow-sm h-100">
+                  <div class="card-body">
+                    <h6 class="fw-bold mb-2" style="color:var(--primary);">
+                      <i class="bi bi-train-front me-2"></i>Train Tickets
+                    </h6>
+                    <p class="text-muted small mb-2">Book rail tickets via China Railway's official website:</p>
+                    <a href="https://www.12306.cn/en/index.html" target="_blank" rel="noopener"
+                       class="btn btn-outline-primary btn-sm w-100">
+                      <i class="bi bi-box-arrow-up-right me-1"></i>12306.cn (English)
+                    </a>
+                  </div>
+                </div>
+              </div>
+              <div class="col-sm-6">
+                <div class="card border-0 shadow-sm h-100">
+                  <div class="card-body">
+                    <h6 class="fw-bold mb-2" style="color:var(--primary);">
+                      <i class="bi bi-house me-2"></i>Accommodation
+                    </h6>
+                    <p class="text-muted small mb-2">Search and book hotels via Trip.com:</p>
+                    <a href="https://www.trip.com/" target="_blank" rel="noopener"
+                       class="btn btn-outline-primary btn-sm w-100">
+                      <i class="bi bi-box-arrow-up-right me-1"></i>Trip.com
+                    </a>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <!-- Arrival airports -->
+            <h4 class="section-subtitle">Step 1 — Choose Your Arrival Airport</h4>
+            <p class="text-muted mb-3">Participants may fly into either of the two major airports serving the Guangdong region:</p>
+
+            <div class="row g-3 mb-4">
+              <!-- SZX -->
+              <div class="col-md-6">
+                <div class="card border-0 shadow-sm h-100" style="border-left:4px solid var(--accent) !important; border-left-width:4px !important;">
+                  <div class="card-body" style="border-left:4px solid var(--accent); border-radius:0 8px 8px 0;">
+                    <div class="d-flex align-items-center gap-2 mb-2">
+                      <span class="badge px-2 py-1" style="background:var(--accent); font-size:.75rem;">SZX</span>
+                      <h6 class="fw-bold mb-0">Shenzhen Bao'an International Airport</h6>
+                    </div>
+                    <p class="text-muted small mb-1">Bao'an District, Shenzhen</p>
+                    <p class="text-muted small mb-0">Guangdong Province, China</p>
+                  </div>
+                </div>
+              </div>
+              <!-- CAN -->
+              <div class="col-md-6">
+                <div class="card border-0 shadow-sm h-100">
+                  <div class="card-body" style="border-left:4px solid var(--accent2); border-radius:0 8px 8px 0;">
+                    <div class="d-flex align-items-center gap-2 mb-2">
+                      <span class="badge px-2 py-1" style="background:var(--accent2); font-size:.75rem;">CAN</span>
+                      <h6 class="fw-bold mb-0">Guangzhou Baiyun International Airport</h6>
+                    </div>
+                    <p class="text-muted small mb-1">No. 888 Jichang Avenue East, Huadu District</p>
+                    <p class="text-muted small mb-0">Guangzhou, Guangdong Province, China</p>
+                  </div>
+                </div>
+              </div>
+            </div>
+
+            <div class="alert alert-info d-flex gap-2 mb-4" style="font-size:.9rem;">
+              <i class="bi bi-lightbulb-fill flex-shrink-0 mt-1"></i>
+              <span>From either airport, take a train to <strong>Changping Station (常平站)</strong>, then take a taxi to Guangdong University of Science and Technology, Songshan Lake Campus.</span>
+            </div>
+
+            <!-- From Shenzhen -->
+            <h4 class="section-subtitle">
+              <span class="badge me-2" style="background:var(--accent); font-size:.8rem; vertical-align:middle;">SZX</span>
+              From Shenzhen Bao'an International Airport
+            </h4>
+
+            <div class="route-card">
+              <div class="route-title"><i class="bi bi-signpost me-1"></i>Route A &nbsp;·&nbsp; Via Shenzhen North Station/Shenzhen Station</div>
+              <div class="route-steps">
+                <span class="route-step accent"><i class="bi bi-airplane-fill"></i> Shenzhen Bao'an Airport</span>
+                <span class="route-arrow"><i class="bi bi-chevron-right"></i></span>
+                <span class="route-step"><i class="bi bi-taxi-front"></i> Shenzhen North Station/Shenzhen Station</span>
+                <span class="route-arrow"><i class="bi bi-chevron-right"></i></span>
+                <span class="route-step accent2"><i class="bi bi-train-front"></i> Changping Station</span>
+                <span class="route-arrow"><i class="bi bi-chevron-right"></i></span>
+                <span class="route-step green"><i class="bi bi-building"></i> GDUST Songshan Lake</span>
+              </div>
+              <div class="d-flex flex-wrap gap-2">
+                <span class="transport-tag tag-taxi"><i class="bi bi-taxi-front me-1"></i>Taxi to Shenzhen North</span>
+                <span class="transport-tag tag-train"><i class="bi bi-train-front me-1"></i>Train → Changping</span>
+                <span class="transport-tag tag-taxi"><i class="bi bi-taxi-front me-1"></i>Taxi to campus</span>
+              </div>
+            </div>
+
+            <div class="route-card">
+              <div class="route-title"><i class="bi bi-signpost me-1"></i>Route B &nbsp;·&nbsp; Via Shenzhen Railway Station</div>
+              <div class="route-steps">
+                <span class="route-step accent"><i class="bi bi-airplane-fill"></i> Shenzhen Bao'an Airport</span>
+                <span class="route-arrow"><i class="bi bi-chevron-right"></i></span>
+                <span class="route-step"><i class="bi bi-taxi-front"></i> Shenzhen Railway Station</span>
+                <span class="route-arrow"><i class="bi bi-chevron-right"></i></span>
+                <span class="route-step accent2"><i class="bi bi-train-front"></i> Changping Station</span>
+                <span class="route-arrow"><i class="bi bi-chevron-right"></i></span>
+                <span class="route-step green"><i class="bi bi-building"></i> GDUST Songshan Lake</span>
+              </div>
+              <div class="d-flex flex-wrap gap-2">
+                <span class="transport-tag tag-taxi"><i class="bi bi-taxi-front me-1"></i>Taxi to Shenzhen Station</span>
+                <span class="transport-tag tag-train"><i class="bi bi-train-front me-1"></i>Train → Changping</span>
+                <span class="transport-tag tag-taxi"><i class="bi bi-taxi-front me-1"></i>Taxi to campus</span>
+              </div>
+            </div>
+
+
+            <!-- From Guangzhou -->
+            <h4 class="section-subtitle">
+              <span class="badge me-2" style="background:var(--accent2); font-size:.8rem; vertical-align:middle;">CAN</span>
+              From Guangzhou Baiyun International Airport
+            </h4>
+
+            <div class="route-card">
+              <div class="route-title"><i class="bi bi-signpost me-1"></i>Recommended Route &nbsp;·&nbsp; Via Guangzhou Train Stations</div>
+              <div class="route-steps">
+                <span class="route-step accent2"><i class="bi bi-airplane-fill"></i> Guangzhou Baiyun Airport</span>
+                <span class="route-arrow"><i class="bi bi-chevron-right"></i></span>
+                <span class="route-step"><i class="bi bi-taxi-front"></i> Guangzhou Station*</span>
+                <span class="route-arrow"><i class="bi bi-chevron-right"></i></span>
+                <span class="route-step accent2"><i class="bi bi-train-front"></i> Changping Station</span>
+                <span class="route-arrow"><i class="bi bi-chevron-right"></i></span>
+                <span class="route-step green"><i class="bi bi-building"></i> GDUST Songshan Lake</span>
+              </div>
+              <p class="text-muted small mb-2">* Take a taxi from the airport to any of the following stations:</p>
+              <div class="d-flex flex-wrap gap-2 mb-0">
+                <span class="badge bg-light text-dark border px-3 py-2">
+                  <i class="bi bi-train-front me-1 text-primary"></i>Guangzhou East Station (广州东站)
+                </span>
+                <span class="badge bg-light text-dark border px-3 py-2">
+                  <i class="bi bi-train-front me-1 text-primary"></i>Guangzhou Xintang Station (广州新塘站)
+                </span>
+                <span class="badge bg-light text-dark border px-3 py-2">
+                  <i class="bi bi-train-front me-1 text-primary"></i>Guangzhou Baiyun Station (广州白云站)
+                </span>
+              </div>
+            </div>
+
+            <!-- Tips -->
+            <div class="card border-0 mt-2" style="background:linear-gradient(135deg,#e8f4fd,#d6eaf8); border-left:4px solid var(--accent2) !important;">
+              <div class="card-body p-4">
+                <h6 class="fw-bold mb-3" style="color:var(--primary);">
+                  <i class="bi bi-lightbulb me-2" style="color:var(--accent);"></i>Travel Tips
+                </h6>
+                <ul class="mb-0" style="font-size:.9rem; line-height:1.9;">
+                  <li>Book train tickets in advance via <a href="https://www.12306.cn/en/index.html" target="_blank" rel="noopener" class="fw-semibold">12306.cn (English)</a> to secure your preferred schedule.</li>
+                  <li>At <strong>Changping Station (常平站)</strong>, take a taxi directly to <em>广东科技学院松山湖校区</em>.</li>
+                  <li>For maps and navigation within China, use <strong>Gaode Maps (高德地图)</strong> — Google Maps has limited functionality in mainland China.</li>
+                  <li>Book accommodation via <a href="https://www.trip.com/" target="_blank" rel="noopener" class="fw-semibold">Trip.com</a>. The <strong>Lavande Hotel</strong> is recommended (see sidebar).</li>
+                </ul>
+              </div>
+            </div>
+
+          </section>
+        </div><!-- /col-lg-8 -->
+
+
+        <!-- ══════════════════ SIDEBAR ══════════════════ -->
+        <div class="col-lg-4">
+          <div class="sticky-top" style="top:90px;">
+
+            <!-- Quick Info -->
+            <div class="card border-0 shadow mb-4">
+              <div class="card-header text-white py-3" style="background:var(--primary);">
+                <h5 class="mb-0"><i class="bi bi-info-circle me-2"></i>Quick Info</h5>
+              </div>
+              <div class="card-body">
+                <ul class="list-unstyled mb-0">
+                  <li class="mb-3 d-flex gap-2">
+                    <i class="bi bi-geo-alt-fill text-danger mt-1 flex-shrink-0"></i>
+                    <div>
+                      <div class="fw-semibold small">Venue</div>
+                      <div class="text-muted small">Room 201, Administration Building<br>Songshan Lake Campus, GDUST<br>Dongguan, Guangdong, China</div>
+                    </div>
+                  </li>
+                  <li class="mb-3 d-flex gap-2">
+                    <i class="bi bi-translate text-primary mt-1 flex-shrink-0"></i>
+                    <div>
+                      <div class="fw-semibold small">中文地址</div>
+                      <div class="text-muted small">广东科技学院松山湖校区<br>行政楼 201 会议室</div>
+                    </div>
+                  </li>
+                  <li class="mb-3 d-flex gap-2">
+                    <i class="bi bi-calendar-fill text-success mt-1 flex-shrink-0"></i>
+                    <div>
+                      <div class="fw-semibold small">Date</div>
+                      <div class="text-muted small">August 4–5, 2026</div>
+                    </div>
+                  </li>
+                  <li class="d-flex gap-2">
+                    <i class="bi bi-cup-hot-fill flex-shrink-0" style="color:var(--accent);margin-top:2px;"></i>
+                    <div>
+                      <div class="fw-semibold small">Banquet</div>
+                      <div class="text-muted small">TBD</div>
+                    </div>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+            <!-- Map Links -->
+            <div class="card border-0 shadow mb-4">
+              <div class="card-header py-2 px-3" style="background:var(--light-bg);">
+                <h6 class="mb-0 fw-bold"><i class="bi bi-map me-2" style="color:var(--accent);"></i>Map Links</h6>
+              </div>
+              <div class="card-body d-grid gap-2">
+                <a href="https://maps.app.goo.gl/j6jzvgPiDJuHDqAR7" target="_blank" rel="noopener"
+                   class="btn btn-outline-secondary btn-sm">
+                  <i class="bi bi-google me-1"></i>Google Maps <span class="text-muted">(approx.)</span>
+                </a>
+                <a href="https://uri.amap.com/search?keyword=广东科技学院松山湖校区&city=dongguan" target="_blank" rel="noopener"
+                   class="btn btn-sm text-white" style="background:#1aab8a;">
+                  <i class="bi bi-map me-1"></i>高德地图 Gaode Maps
+                </a>
+                <p class="text-muted mb-0" style="font-size:.75rem;">
+                  <i class="bi bi-exclamation-circle me-1"></i>Google Maps has limited functionality in mainland China. Gaode Maps recommended.
+                </p>
+              </div>
+            </div>
+
+            <!-- Hotel -->
+            <div class="card border-0 shadow mb-4">
+              <div class="card-header py-2 px-3" style="background:var(--light-bg);">
+                <h6 class="mb-0 fw-bold"><i class="bi bi-house-heart me-2" style="color:var(--accent);"></i>Recommended Hotel</h6>
+              </div>
+              <div class="card-body">
+                <div class="d-flex align-items-center gap-3 mb-3">
+                  <div class="rounded d-flex align-items-center justify-content-center flex-shrink-0"
+                       style="width:48px;height:48px;background:var(--primary);">
+                    <i class="bi bi-building text-white fs-5"></i>
+                  </div>
+                  <div>
+                    <div class="fw-bold" style="color:var(--primary);">Lavande Hotel</div>
+                    <div class="text-muted small">Near GDUST Songshan Lake Campus</div>
+                  </div>
+                </div>
+                <a href="https://hk.trip.com/hotels/dongguan-hotel-detail-100982301/lavande-hotel/"
+                   target="_blank" rel="noopener"
+                   class="btn btn-primary-custom btn-sm w-100">
+                  <i class="bi bi-box-arrow-up-right me-1"></i>Book on Trip.com
+                </a>
+              </div>
+            </div>
+
+            <!-- Useful Links -->
+            <div class="card border-0 shadow">
+              <div class="card-body">
+                <h6 class="fw-bold mb-3">Useful Links</h6>
+                <ul class="list-unstyled mb-0" style="font-size:.88rem;">
+                  <li class="mb-2">
+                    <a href="https://www.12306.cn/en/index.html" target="_blank" rel="noopener" class="text-decoration-none">
+                      <i class="bi bi-train-front me-2 text-primary"></i>12306 Train Tickets (EN)
+                    </a>
+                  </li>
+                  <li class="mb-2">
+                    <a href="https://www.trip.com/" target="_blank" rel="noopener" class="text-decoration-none">
+                      <i class="bi bi-house me-2 text-primary"></i>Trip.com Hotels
+                    </a>
+                  </li>
+                  <li class="mb-2">
+                    <a href="registration.html" class="text-decoration-none">
+                      <i class="bi bi-pencil-square me-2 text-primary"></i>Registration
+                    </a>
+                  </li>
+                  <li>
+                    <a href="banquet.html" class="text-decoration-none">
+                      <i class="bi bi-cup-hot me-2 text-primary"></i>Banquet Info
+                    </a>
+                  </li>
+                </ul>
+              </div>
+            </div>
+
+          </div><!-- /sticky-top -->
+        </div><!-- /col-lg-4 -->
+
+      </div><!-- /row -->
+    </div><!-- /container-xl -->
+  </main>
+
+  <script src="vendor/bootstrap.bundle.min.js"></script>
+  <script src="js/footer.js"></script>
+</body>
+</html>

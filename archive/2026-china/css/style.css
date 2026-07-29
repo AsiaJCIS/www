@@ -1,0 +1,425 @@
+/* =========================================================
+   AsiaJCIS 2026 – Custom Styles (Bootstrap 5 companion)
+   ========================================================= */
+
+/* ── Colour palette ── */
+:root {
+  --primary:    #1a3a6b;   /* deep navy */
+  --accent:     #e8622a;   /* warm orange */
+  --accent2:    #2980b9;   /* sky blue */
+  --light-bg:   #f4f7fb;
+  --border:     #dee2e6;
+}
+
+/* ── Typography ── */
+body {
+  font-family: 'Inter', 'Segoe UI', sans-serif;
+  color: #2c3e50;
+  padding-top: 76px; /* offset for fixed navbar */
+}
+
+h1, h2, h3, h4, h5 { font-weight: 700; }
+
+/* ── Navbar ── */
+.navbar-brand {
+  font-size: 1.3rem;
+  font-weight: 800;
+  letter-spacing: .5px;
+}
+.navbar { background: var(--primary) !important; }
+.navbar .nav-link { color: rgba(255,255,255,.85) !important; font-weight: 500; transition: color .2s; }
+.navbar .nav-link:hover,
+.navbar .nav-link.active { color: #fff !important; }
+.navbar .dropdown-menu {
+  border-top: 3px solid var(--accent);
+  border-radius: 0 0 8px 8px;
+  box-shadow: 0 8px 24px rgba(0,0,0,.12);
+  animation: fadeInDown .2s ease;
+}
+@keyframes fadeInDown {
+  from { opacity: 0; transform: translateY(-8px); }
+  to   { opacity: 1; transform: translateY(0); }
+}
+.navbar .dropdown-item { padding: 8px 20px; font-size: .9rem; transition: background .15s; }
+.navbar .dropdown-item:hover { background: var(--light-bg); color: var(--primary); }
+.navbar .dropdown-item i { color: var(--accent); }
+.navbar-toggler-icon {
+  background-image: url("data:image/svg+xml,%3csvg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 30 30'%3e%3cpath stroke='rgba%28255,255,255,0.85%29' stroke-linecap='round' stroke-miterlimit='10' stroke-width='2' d='M4 7h22M4 15h22M4 23h22'/%3e%3c/svg%3e");
+}
+
+/* ── Hero banner ── */
+.hero-section {
+  background: linear-gradient(135deg, var(--primary) 0%, #2c5282 55%, #2980b9 100%);
+  color: #fff;
+  padding: 110px 0 90px;
+  position: relative;
+  overflow: hidden;
+  text-align: center;
+}
+.hero-section::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: url("data:image/svg+xml,%3Csvg width='60' height='60' viewBox='0 0 60 60' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='none' fill-rule='evenodd'%3E%3Cg fill='%23ffffff' fill-opacity='0.03'%3E%3Cpath d='M36 34v-4h-2v4h-4v2h4v4h2v-4h4v-2h-4zm0-30V0h-2v4h-4v2h4v4h2V6h4V4h-4zM6 34v-4H4v4H0v2h4v4h2v-4h4v-2H6zM6 4V0H4v4H0v2h4v4h2V6h4V4H6z'/%3E%3C/g%3E%3C/g%3E%3C/svg%3E");
+}
+.hero-section::after {
+  content: "";
+  position: absolute;
+  bottom: 0; left: 0; right: 0;
+  height: 60px;
+  background: linear-gradient(to bottom, transparent, rgba(255,255,255,.06));
+}
+.hero-section h1 { font-size: 3rem; font-weight: 800; text-shadow: 0 2px 4px rgba(0,0,0,.3); }
+.hero-section .lead { font-size: 1.3rem; opacity: .9; }
+.hero-badge {
+  display: inline-block;
+  background: var(--accent);
+  color: #fff;
+  padding: 6px 22px;
+  border-radius: 50px;
+  font-size: .95rem;
+  font-weight: 600;
+  margin-bottom: 20px;
+  letter-spacing: .5px;
+  box-shadow: 0 2px 10px rgba(232,98,42,.4);
+}
+
+/* ── Page hero (sub-pages) ── */
+.page-hero {
+  background: linear-gradient(135deg, var(--primary) 0%, #2c5282 60%, #2980b9 100%);
+  color: #fff;
+  padding: 65px 0 55px;
+  text-align: center;
+  position: relative;
+  overflow: hidden;
+}
+.page-hero::before {
+  content: "";
+  position: absolute;
+  inset: 0;
+  background: url("data:image/svg+xml,%3Csvg width='40' height='40' viewBox='0 0 40 40' xmlns='http://www.w3.org/2000/svg'%3E%3Cg fill='%23ffffff' fill-opacity='0.03' fill-rule='evenodd'%3E%3Cpath d='M0 40L40 0H20L0 20M40 40V20L20 40'/%3E%3C/g%3E%3C/svg%3E");
+}
+.page-hero h1 { font-size: 2.4rem; margin-bottom: 8px; position: relative; }
+.page-hero .breadcrumb { background: transparent; justify-content: center; position: relative; }
+.page-hero .breadcrumb-item,
+.page-hero .breadcrumb-item a { color: rgba(255,255,255,.75); text-decoration: none; }
+.page-hero .breadcrumb-item.active { color: #fff; }
+.page-hero .breadcrumb-item+.breadcrumb-item::before { color: rgba(255,255,255,.5); }
+
+/* ── Section headings ── */
+.section-title {
+  color: var(--primary);
+  border-left: 4px solid var(--accent);
+  padding-left: 14px;
+  margin-bottom: 24px;
+  font-size: 1.65rem;
+}
+.section-subtitle {
+  color: var(--primary);
+  border-bottom: 2px solid var(--accent2);
+  padding-bottom: 8px;
+  margin: 32px 0 18px;
+  font-size: 1.15rem;
+}
+
+/* ── Cards ── */
+.info-card {
+  border: none;
+  border-radius: 12px;
+  box-shadow: 0 2px 18px rgba(26,58,107,.09);
+  transition: transform .25s, box-shadow .25s;
+}
+.info-card:hover {
+  transform: translateY(-5px);
+  box-shadow: 0 10px 32px rgba(26,58,107,.16);
+}
+.card-icon { font-size: 2.4rem; color: var(--accent2); margin-bottom: 12px; }
+
+/* ── Dates table ── */
+.dates-table th { background: var(--primary); color: #fff; }
+.dates-table td { vertical-align: middle; }
+.dates-table tr:last-child td { font-weight: 700; }
+
+/* ── News items ── */
+.news-item { border-left: 4px solid var(--accent2); padding-left: 16px; margin-bottom: 18px; }
+.news-date { font-size: .8rem; color: #888; }
+.badge-new {
+  display: inline-block;
+  background: var(--accent2);
+  color: #fff;
+  font-size: .72rem;
+  padding: 3px 10px;
+  border-radius: 20px;
+  margin-right: 8px;
+  vertical-align: middle;
+}
+
+/* ── Program table ── */
+.program-table th { background: var(--primary); color: #fff; white-space: nowrap; }
+.program-table td { font-size: .875rem; vertical-align: middle; }
+.program-table .session-break    { background: #f8f9fa; font-style: italic; color: #777; }
+.program-table .session-keynote  { background: #fff3cd; }
+.program-table .session-invited  { background: #d1ecf1; }
+.program-table .session-regular  { background: #d4edda; }
+.program-label {
+  display: inline-block;
+  padding: 2px 8px;
+  border-radius: 4px;
+  font-size: .75rem;
+  font-weight: 600;
+}
+.label-regular { background: #28a745; color: #fff; }
+.label-short   { background: #17a2b8; color: #fff; }
+
+/* ── Committee ── */
+.committee-card {
+  background: var(--light-bg);
+  border-radius: 10px;
+  padding: 24px;
+  margin-bottom: 20px;
+  border-left: 4px solid var(--accent2);
+  transition: box-shadow .2s;
+}
+.committee-card:hover { box-shadow: 0 4px 20px rgba(26,58,107,.10); }
+.committee-card h4 {
+  color: var(--primary);
+  border-bottom: 2px solid var(--accent);
+  padding-bottom: 10px;
+  margin-bottom: 16px;
+  font-size: 1.1rem;
+}
+.committee-card li { font-size: .9rem; padding: 3px 0; }
+
+/* ── Registration tabs ── */
+.lang-tab-btn { min-width: 200px; }
+.reg-fee-table th { background: var(--primary); color: #fff; }
+
+/* ── Submission box ── */
+.submission-box {
+  background: linear-gradient(135deg, #e8f4fd 0%, #d6eaf8 100%);
+  border: 1px solid #bee3f8;
+  border-radius: 10px;
+  padding: 28px;
+  text-align: center;
+  margin: 18px 0;
+}
+.submission-box a { font-size: 1.1rem; font-weight: 600; color: var(--accent2); word-break: break-all; }
+
+/* ── Venue ── */
+.venue-map iframe {
+  border-radius: 10px;
+  border: 1px solid var(--border) !important;
+  box-shadow: 0 4px 16px rgba(0,0,0,.08);
+}
+
+/* ── Proceedings ── */
+.proceedings-unlock {
+  max-width: 480px;
+  margin: 70px auto;
+  text-align: center;
+}
+.proceedings-unlock .lock-icon { font-size: 4.5rem; color: var(--primary); margin-bottom: 20px; }
+
+/* ── Gallery ── */
+.gallery-card {
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 18px rgba(0,0,0,.12);
+  transition: transform .25s, box-shadow .25s;
+}
+.gallery-card:hover {
+  transform: scale(1.03);
+  box-shadow: 0 10px 30px rgba(0,0,0,.18);
+}
+.gallery-card img { height: 220px; object-fit: cover; width: 100%; }
+
+/* ── Awards ── */
+.award-card {
+  background: linear-gradient(135deg, #fff9e6 0%, #fff3cd 100%);
+  border: 2px solid #ffc107;
+  border-radius: 14px;
+  padding: 36px;
+  text-align: center;
+  box-shadow: 0 4px 20px rgba(255,193,7,.2);
+}
+.award-icon { font-size: 3.5rem; color: #ffc107; margin-bottom: 14px; }
+
+/* ── Countdown ── */
+.countdown-box {
+  background: rgba(255,255,255,.12);
+  border: 1px solid rgba(255,255,255,.2);
+  border-radius: 10px;
+  padding: 18px 28px;
+  display: inline-flex;
+  gap: 28px;
+  margin-top: 20px;
+  backdrop-filter: blur(4px);
+}
+.countdown-unit { text-align: center; }
+.countdown-num { font-size: 2.2rem; font-weight: 800; line-height: 1; }
+.countdown-label { font-size: .72rem; opacity: .8; letter-spacing: 1px; text-transform: uppercase; margin-top: 4px; }
+
+/* ── Quick stats bar ── */
+.stats-bar { background: var(--primary); }
+.stats-bar .stat-num { font-size: 2rem; font-weight: 800; }
+
+/* ── Footer ── */
+footer {
+  background: var(--primary);
+  color: rgba(255,255,255,.8);
+  padding: 40px 0 24px;
+  font-size: .9rem;
+}
+footer a { color: rgba(255,255,255,.7); text-decoration: none; transition: color .2s; }
+footer a:hover { color: #fff; }
+footer .footer-divider { border-color: rgba(255,255,255,.15); }
+
+/* ── Buttons ── */
+.btn-primary-custom {
+  background: var(--primary);
+  border-color: var(--primary);
+  color: #fff;
+  padding: 10px 28px;
+  border-radius: 6px;
+  font-weight: 600;
+  transition: background .2s, transform .15s;
+}
+.btn-primary-custom:hover {
+  background: #142d56;
+  border-color: #142d56;
+  color: #fff;
+  transform: translateY(-1px);
+}
+.btn-accent {
+  background: var(--accent);
+  border-color: var(--accent);
+  color: #fff;
+  padding: 10px 28px;
+  border-radius: 6px;
+  font-weight: 600;
+  transition: background .2s, transform .15s;
+}
+.btn-accent:hover {
+  background: #c95520;
+  border-color: #c95520;
+  color: #fff;
+  transform: translateY(-1px);
+}
+
+/* ── Keynote speaker card (homepage) ── */
+.keynote-card {
+  border-radius: 14px !important;
+  transition: box-shadow .3s;
+}
+.keynote-card:hover {
+  box-shadow: 0 16px 48px rgba(26,58,107,.18) !important;
+}
+
+/* Avatar circle */
+.keynote-avatar-inner {
+  width: 110px;
+  height: 110px;
+  border-radius: 50%;
+  background: rgba(255,255,255,.13);
+  border: 3px solid rgba(255,255,255,.35);
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  box-shadow: 0 4px 20px rgba(0,0,0,.25);
+}
+
+/* Fellow badges */
+.keynote-badge {
+  display: inline-block;
+  padding: 3px 10px;
+  border-radius: 20px;
+  font-size: .72rem;
+  font-weight: 700;
+  letter-spacing: .04em;
+  background: rgba(255,255,255,.15);
+  border: 1px solid rgba(255,255,255,.3);
+  color: #fff;
+}
+
+/* Topic tags */
+.topic-tag {
+  display: inline-block;
+  padding: 4px 12px;
+  border-radius: 20px;
+  font-size: .78rem;
+  font-weight: 600;
+  background: #eef2ff;
+  color: var(--primary);
+  border: 1px solid #d0d9f5;
+}
+
+/* ── Legacy speaker card (sub-pages) ── */
+.speaker-card {
+  border: none;
+  border-radius: 12px;
+  overflow: hidden;
+  box-shadow: 0 4px 20px rgba(26,58,107,.1);
+  transition: transform .25s, box-shadow .25s;
+}
+.speaker-card:hover {
+  transform: translateY(-4px);
+  box-shadow: 0 10px 32px rgba(26,58,107,.18);
+}
+.speaker-card .speaker-header {
+  background: linear-gradient(135deg, var(--primary) 0%, #2c5282 100%);
+  color: #fff;
+  padding: 20px;
+}
+.speaker-avatar {
+  width: 80px; height: 80px;
+  border-radius: 50%;
+  background: rgba(255,255,255,.15);
+  display: flex; align-items: center; justify-content: center;
+  font-size: 2rem;
+  color: #fff;
+  margin: 0 auto 12px;
+  border: 3px solid rgba(255,255,255,.3);
+}
+
+/* ── TPC member item ── */
+.tpc-member {
+  display: flex;
+  align-items: flex-start;
+  gap: 10px;
+  padding: 8px 0;
+  border-bottom: 1px solid rgba(0,0,0,.06);
+}
+.tpc-member:last-child { border-bottom: none; }
+.tpc-member .tpc-icon {
+  width: 32px; height: 32px;
+  border-radius: 50%;
+  background: var(--primary);
+  color: #fff;
+  display: flex; align-items: center; justify-content: center;
+  font-size: .75rem;
+  flex-shrink: 0;
+  font-weight: 700;
+  margin-top: 2px;
+}
+
+/* ── Smooth scroll & transitions ── */
+html { scroll-behavior: smooth; }
+a { transition: color .2s; }
+
+/* ── Responsive ── */
+@media (max-width: 991px) {
+  .navbar .dropdown-menu { animation: none; box-shadow: none; border-top: none; border-left: 3px solid var(--accent); border-radius: 0; margin-left: 16px; }
+}
+@media (max-width: 768px) {
+  .hero-section { padding: 80px 0 70px; }
+  .hero-section h1 { font-size: 2.1rem; }
+  .hero-section .lead { font-size: 1.1rem; }
+  body { padding-top: 70px; }
+  .countdown-box { gap: 16px; padding: 14px 18px; }
+  .countdown-num { font-size: 1.7rem; }
+}
+@media (max-width: 480px) {
+  .hero-section h1 { font-size: 1.7rem; }
+  .page-hero h1 { font-size: 1.8rem; }
+  .section-title { font-size: 1.35rem; }
+}
