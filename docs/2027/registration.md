@@ -17,8 +17,8 @@
 
 | Event | Date |
 |-------|------|
-| Early Bird Deadline | TBD |
-| Regular Registration Deadline | TBD |
+| Early Bird Deadline | July 2, 2027 (tentative) |
+| Regular Registration Deadline | July 16, 2027 (tentative) |
 
 ### Registration Policy
 

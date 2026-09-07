@@ -12,20 +12,23 @@ nav:
   - Call for Papers:
     - Call for Papers: 2027/cfp.md
     - Call for Posters: 2027/cfp-posters.md
-    - Submission: 2027/submission.md
+    - Submission Policies & Instructions: 2027/submission.md
   - Attending:
     - Registration: 2027/registration.md
     - Venue: 2027/venue.md
+    - Travel & Visa: 2027/travel.md
     - Accommodation: 2027/accommodation.md
   - Organization:
     - Committee: 2027/committee.md
-    - Sponsors: 2027/sponsors.md
+    - Call for Sponsors: 2027/sponsors.md
   - Program:
     - Program: 2027/program.md
     - Keynotes: 2027/keynotes.md
     - Accepted Papers: 2027/accepted-papers.md
     - Accepted Posters: 2027/accepted-posters.md
     - Awards: 2027/awards.md
+  - Code of Conduct: code-of-conduct.md
+  - Contact: contact.md
 
 # 過去大会の静的ミラー（docs/archive/**）は nav に載せない。
 # ビルド・公開はされるが、テーマ描画されず「nav 未収録」警告も出ない（--strict でも通す）。

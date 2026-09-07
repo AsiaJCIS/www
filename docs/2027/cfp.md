@@ -4,7 +4,7 @@
 
 ## The 22nd Asia Joint Conference on Information Security (AsiaJCIS 2027)
 
-Juntendo University, Japan · Dates TBD (August 2027)
+Juntendo University, Japan · August 3–4, 2027
 
 The 22nd Asia Joint Conference on Information Security (AsiaJCIS 2027) will be held at Juntendo University, Japan. This conference focuses on the technical and practical aspects of security applications and will serve as a forum to present new results from the academic research community and the industry. Original papers are solicited for submission to AsiaJCIS. In addition, several distinguished security experts will be invited to give technical talks.
 
@@ -21,36 +21,39 @@ Areas of interest include, but are not limited to:
 
 ### Instructions for Authors
 
-Authors are invited to submit original papers. The papers must not substantially duplicate work that any authors have published elsewhere or have submitted in parallel to any other conferences with proceedings.
+Authors are invited to submit original papers that have not been published and are not under review elsewhere. Submissions must not substantially duplicate work that any of the authors have published or submitted in parallel to any other venue with proceedings. All submissions are screened for plagiarism and self-plagiarism, and must comply with the [IEEE publication and author ethics policies](https://www.ieee.org/publications/rights/plagiarism/plagiarism.html).
 
-This conference adopts a double-blind peer review. The submitted manuscripts must be anonymous, with no author names, affiliations, acknowledgements, or obvious references.
+**Format.** Papers must be written in English and submitted in PDF format, prepared in the standard IEEE two-column conference format (US Letter, 8.5" × 11"). Regular papers are limited to **8 pages**, with up to **2 additional pages** permitted at an extra charge. The official template will be linked from the [Submission](submission.md) page.
 
-Authors of accepted papers MUST give an oral presentation at the conference. Papers of authors who will not attend the conference will be deleted from the conference proceedings and announced as no-show papers on the conference site.
+**Review.** AsiaJCIS adopts a **double-blind** peer review: submitted manuscripts must be anonymized, with no author names, affiliations, acknowledgements, or obvious self-references. Each submission is reviewed by at least three Program Committee members. The Program Committee is organized across Japan, China, Korea, and Taiwan, and reviews are assigned across countries to ensure independence.
 
-This year, we will have regular papers and short papers. Once accepted, the program committee will decide whether the paper will be presented as a regular or short paper.
+**Categories.** The conference has regular papers and short papers. Upon acceptance, the Program Committee decides whether a paper is presented as a regular or a short paper. Posters are solicited separately — see the [Call for Posters](cfp-posters.md).
 
-The paper submission should conform to the following guidelines:
+**Presentation.** At least one author of each accepted paper MUST register and give an oral presentation at the conference. Papers not presented ("no-shows") are removed from the proceedings and announced as no-show papers on the conference site. See [Registration](registration.md).
 
-- The submission must be written in English and submitted in PDF format.
-- The page limit, template, and formatting details will be announced together with the submission website. Authors should follow the official conference template once it is available.
-- Submissions ignoring these guidelines may be rejected without further consideration.
+Submissions that ignore these guidelines may be rejected without review.
 
 ### Important Dates
 
 | Event | Date |
 |-------|------|
-| Paper Submission Deadline | TBD |
-| Notification of Acceptance | TBD |
-| Camera-Ready Deadline | TBD |
-| Conference Dates | TBD (August 2027) |
+| Paper Submission Deadline | Friday, April 16, 2027 (AoE) |
+| Notification of Acceptance | May 28, 2027 |
+| Camera-Ready Deadline | Friday, June 18, 2027 (AoE) |
+| Conference Dates | August 3–4, 2027 |
+
+!!! note "Note"
+    All deadlines are 23:59 AoE (Anywhere on Earth). Submission-related deadlines are tentative and may be adjusted; the conference dates (August 3–4, 2027) are confirmed.
 
 ### Submission Site
 
-TBD (EasyChair)
+The submission site (EasyChair) will be announced shortly. Papers must be submitted in PDF format through EasyChair.
 
 ### Publication
 
-Accepted papers are planned to be published by IEEE and submitted for inclusion in IEEE Xplore. Details TBD.
+All accepted papers are published in the AsiaJCIS 2027 conference proceedings (via EasyChair). **Selected papers** are, instead, published through IEEE Conference Publishing Services (CPS) and submitted for possible inclusion in IEEE Xplore (AsiaJCIS 2027 is not sponsored by the IEEE; Xplore inclusion is subject to IEEE review and is not guaranteed).
+
+See [Submission Policies and Instructions](submission.md#publication-and-proceedings) for details.
 
 ### Committees
 
