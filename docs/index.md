@@ -34,12 +34,12 @@ Archived copies are local static snapshots of each year's official site, kept he
 | 2014 | 9th  | Wuhan, China | — | — | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2014.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/7001440/proceeding) |
 | 2013 | 8th  | Seoul, Korea | — | — | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2013.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/6621628/proceeding) |
 | 2012 | 7th  | Tokyo, Japan | — | — | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2012.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/6296578/proceeding) |
-| 2011 | 6th  | Kaohsiung, Taiwan | — | — | — | — |
+| 2011 | 6th  | Kaohsiung, Taiwan | sites.google.com/site/jwis2011 | — | — | — |
 | 2010 | 5th  | Guangzhou, China | — | — | — | — |
-| 2009 | 4th  | Kaohsiung, Taiwan | — | — | — | — |
+| 2009 | 4th  | Kaohsiung, Taiwan | jwis2009.nsysu.edu.tw | — | — | — |
 | 2008 | 3rd  | Seoul, Korea | — | — | — | — |
-| 2007 | 2nd  | Tokyo, Japan | — | — | — | — |
-| 2006 | 1st  | Seoul, Korea | — | — | — | — |
+| 2007 | 2nd  | Tokyo, Japan | ieice.org/~icss/jwis2007 | — | — | — |
+| 2006 | 1st  | Seoul, Korea | elec.sch.ac.kr/jwis | — | — | — |
 
 Editions from 2006 to 2011 (1st–6th) were held under the predecessor name **JWIS (Joint Workshop on Information Security)**; the event was renamed AsiaJCIS from 2012. DBLP indexes the proceedings from 2012 onward, and the IEEE-published editions (2012–2024) are listed on IEEE Xplore.
 
