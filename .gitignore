@@ -1,7 +1,7 @@
 # 過去大会アーカイブ（静的ミラー・計~16MB）は当面コミットしない。
 # 公開する段になったらこの行を消して docs/archive/ を追加する。
 # それまで Past Conferences の「archived」リンクは 404（承知の上）。
-docs/archive/
+#docs/archive/
 
 # MkDocs のローカルビルド成果物
 site/

@@ -27,6 +27,7 @@ jobs:
       - name: Install mkdocs
         run: pip install "mkdocs>=1.6,<2"
       - name: Build
+        # --strict でリンク切れ等を検知（docs/archive/ を含めてコミットする前提）。
         run: mkdocs build --strict
       - uses: actions/upload-pages-artifact@v3
         with:
