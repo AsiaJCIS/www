@@ -17,10 +17,10 @@ The **Asia Joint Conference on Information Security (AsiaJCIS)** is one of the p
 
 Archived copies are local static snapshots of each year's official site, kept here for reference. Official-site addresses are shown as plain text because these host sites may go offline over time; please use the archived copies for a stable reference.
 
-| Year | Edition | Location | Official Site | Archive | DBLP | IEEE Xplore |
+| Year | Edition | Location | Official Site | Archive | DBLP | Proceedings |
 |------|---------|----------|---------------|---------|------|-------------|
-| 2026 | 21st | Dongguan, China | asiajcis2026.gdust.edu.cn | [archived](archive/2026-china/index.html) | — | — |
-| 2025 | 20th | Seoul, Korea | asiajcis2025.sch.ac.kr | [archived](archive/2025-korea/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2025.html) | — |
+| 2026 | 21st | Dongguan, China | asiajcis2026.gdust.edu.cn | [archived](archive/2026-china/index.html) | — | [EasyChair (EPiC 111)](https://easychair.org/publications/volume/AsiaJCIS_2026) |
+| 2025 | 20th | Seoul, Korea | asiajcis2025.sch.ac.kr | [archived](archive/2025-korea/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2025.html) | [EasyChair (EPiC 106)](https://easychair.org/publications/volume/AsiaJCIS_2025) |
 | 2024 | 19th | Tainan, Taiwan | asiajcis2024.web2.ncku.edu.tw | [archived](archive/2024-taiwan/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2024.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/10716816/proceeding) |
 | 2023 | 18th | Tokyo, Japan | asiajcis2023.nict.go.jp | [archived](archive/2023-japan/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2023.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/10367786/proceeding) |
 | 2022 | 17th | Baoding, China | cs.hbu.edu.cn/asiajcis2022 | — | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2022.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/10071143/proceeding) |
