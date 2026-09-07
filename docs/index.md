@@ -29,13 +29,13 @@ Archived copies are local static snapshots of each year's official site, kept he
 | 2019 | 14th | Kobe, Japan | klab.is.sci.toho-u.ac.jp/asiajcis2019 | — | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2019.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/8797685/proceeding) |
 | 2018 | 13th | Guilin, China | gcis.guet.edu.cn/asiajcis2018 | — | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2018.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/8453224/proceeding) |
 | 2017 | 12th | Seoul, Korea | asiajcis.sch.ac.kr | — | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2017.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/8025185/proceeding) |
-| 2016 | 11th | Fukuoka, Japan | — | — | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2016.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/7781470/proceeding) |
+| 2016 | 11th | Fukuoka, Japan | ipsr.ynu.ac.jp/asiajcis2016 | — | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2016.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/7781470/proceeding) |
 | 2015 | 10th | Kaohsiung, Taiwan | — | — | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2015.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/7153314/proceeding) |
-| 2014 | 9th  | Wuhan, China | — | — | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2014.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/7001440/proceeding) |
+| 2014 | 9th  | Wuhan, China | is.hbut.edu.cn/asiajcis2014 | — | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2014.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/7001440/proceeding) |
 | 2013 | 8th  | Seoul, Korea | — | — | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2013.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/6621628/proceeding) |
-| 2012 | 7th  | Tokyo, Japan | — | — | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2012.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/6296578/proceeding) |
+| 2012 | 7th  | Tokyo, Japan | cs.dm.u-tokai.ac.jp/ASIAJCIS2012 | — | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2012.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/6296578/proceeding) |
 | 2011 | 6th  | Kaohsiung, Taiwan | sites.google.com/site/jwis2011 | — | — | — |
-| 2010 | 5th  | Guangzhou, China | — | — | — | — |
+| 2010 | 5th  | Guangzhou, China | xy.scau.edu.cn/info/jwis2010 | — | — | — |
 | 2009 | 4th  | Kaohsiung, Taiwan | jwis2009.nsysu.edu.tw | — | — | — |
 | 2008 | 3rd  | Seoul, Korea | — | — | — | — |
 | 2007 | 2nd  | Tokyo, Japan | ieice.org/~icss/jwis2007 | — | — | — |
