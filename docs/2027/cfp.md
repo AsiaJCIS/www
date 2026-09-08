@@ -23,7 +23,7 @@ Areas of interest include, but are not limited to:
 
 Authors are invited to submit original papers that have not been published and are not under review elsewhere. Submissions must not substantially duplicate work that any of the authors have published or submitted in parallel to any other venue with proceedings. All submissions are screened for plagiarism and self-plagiarism, and must comply with the [IEEE publication and author ethics policies](https://www.ieee.org/publications/rights/plagiarism/plagiarism.html).
 
-**Format.** Papers must be written in English and submitted in PDF format, prepared in the standard IEEE two-column conference format (US Letter, 8.5" × 11"). Regular papers are limited to **8 pages**, with up to **2 additional pages** permitted at an extra charge. The official template will be linked from the [Submission](submission.md) page.
+**Format.** Papers must be written in English and submitted in PDF format, prepared in the standard IEEE two-column conference format (US Letter, 8.5" × 11"). Papers are limited to **8 pages**, with up to **2 additional pages** permitted at an extra charge. The official template will be linked from the [Submission](submission.md) page.
 
 **Review.** AsiaJCIS adopts a **double-blind** peer review: submitted manuscripts must be anonymized, with no author names, affiliations, acknowledgements, or obvious self-references. Each submission is reviewed by at least three Program Committee members. The Program Committee is organized across Japan, China, Korea, and Taiwan, and reviews are assigned across countries to ensure independence.
 

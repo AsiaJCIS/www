@@ -9,8 +9,7 @@ This page gives the detailed submission policies for AsiaJCIS 2027. For scope, t
 
 - Papers must be written in **English** and submitted as a **PDF**.
 - Use the standard **IEEE two-column conference format**, US Letter (8.5" × 11").
-- **Regular papers:** up to **8 pages**, including references and appendices, with up to **2 additional pages** permitted at an extra charge.
-- **Short papers:** shorter contributions reporting focused or preliminary results; the page limit will be stated with the template.
+- **Papers:** up to **8 pages**, including references and appendices, with up to **2 additional pages** permitted at an extra charge. (After acceptance, the Program Committee decides whether each paper is presented as a regular or a short paper.)
 - **Posters:** up to **2 pages** (extended abstract) — see the [Call for Posters](cfp-posters.md).
 - Submissions that ignore the formatting rules may be rejected without review.
 
