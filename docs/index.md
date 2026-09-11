@@ -32,12 +32,12 @@ Official-site addresses are shown as plain text because these host sites may go 
 | 2016 | 11th | Fukuoka, Japan | ipsr.ynu.ac.jp/asiajcis2016 | [archived](https://web.archive.org/web/20230924043130/http://ipsr.ynu.ac.jp/asiajcis2016) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2016.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/7781470/proceeding) |
 | 2015 | 10th | Kaohsiung, Taiwan | asiajcis2015.cse.nsysu.edu.tw | [archived](https://archive.md/9ykUr) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2015.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/7153314/proceeding) |
 | 2014 | 9th  | Wuhan, China | is.hbut.edu.cn/asiajcis2014 | [archived](https://web.archive.org/web/20200114121623/http://is.hbut.edu.cn/asiajcis2014) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2014.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/7001440/proceeding) |
-| 2013 | 8th  | Seoul, Korea | — | — | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2013.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/6621628/proceeding) |
+| 2013 | 8th  | Seoul, Korea | asiajcis.org | [archived](https://web.archive.org/web/20130517111356/http://asiajcis.org) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2013.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/6621628/proceeding) |
 | 2012 | 7th  | Tokyo, Japan | cs.dm.u-tokai.ac.jp/ASIAJCIS2012 | — | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2012.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/6296578/proceeding) |
 | 2011 | 6th  | Kaohsiung, Taiwan | sites.google.com/site/jwis2011 | [archived](https://web.archive.org/web/20220520053309/http://sites.google.com/site/jwis2011) | — | — |
 | 2010 | 5th  | Guangzhou, China | xy.scau.edu.cn/info/jwis2010 | [archived](https://web.archive.org/web/20110707031027/http://xy.scau.edu.cn/info/jwis2010) | — | — |
 | 2009 | 4th  | Kaohsiung, Taiwan | jwis2009.nsysu.edu.tw | [archived](https://web.archive.org/web/20230608211311/http://jwis2009.nsysu.edu.tw) | — | — |
-| 2008 | 3rd  | Seoul, Korea | — | — | — | — |
+| 2008 | 3rd  | Seoul, Korea | cs.sookmyung.ac.kr/~rhee/jwis2008 | [archived](https://web.archive.org/web/20080611025750/http://cs.sookmyung.ac.kr/~rhee/jwis2008/) | — | — |
 | 2007 | 2nd  | Tokyo, Japan | ieice.org/~icss/jwis2007 | [archived](https://web.archive.org/web/20170823063152/http://www.ieice.org/~icss/jwis2007) | — | — |
 | 2006 | 1st  | Seoul, Korea | elec.sch.ac.kr/jwis | [archived](https://web.archive.org/web/20111104040307/http://elec.sch.ac.kr/jwis) | — | — |
 
