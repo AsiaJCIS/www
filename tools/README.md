@@ -7,6 +7,11 @@
 - **写真（集合写真・会場スナップ等のギャラリー）は保存しない。** ギャラリーページ・画像は削除し、
   リンクは Wayback Machine の該当URLに向けている（2008 gallery.html, 2009 photo/, 2011 photo.html）。
 - 論文PDF・CFP・プログラム等の資料はそのまま保持。
+- **外部トラッカー・外部スクリプトは載せない。** アナリティクス、Cookie 同意バナー（Osano/IEEE）、
+  Facebook SDK、Google Sites の viewer JS などは削除済み（削除箇所には HTML コメントを残している）。
+  Wayback に存在しないファイルへの `<script>`/`<link>` も削除。残している外部参照は
+  Google Fonts（2019/2020/2023/2025）、Google Sites の CSS（2011）、Google Maps の埋め込み iframe のみ。
+  追加時は `grep -rhoiE '<(script|link|iframe)[^>]+(src|href)="(https?:)?//[^"/]+' docs/archive` で確認。
 - 原サイトが生きている年は wget、死んでいる年は Wayback からの復元（`_wayback_manifest.json` に取得元と時刻を記録）。
 
 ## 取得方法
