@@ -539,7 +539,7 @@ h1,h2,h3,h4,h5,h6,span,ul,li
 		font-weight: normal;
 		color:#464646;
 		text-decoration:none;		
-		background-image:url(https://web.archive.org/web/20110707031046/http://xy.scau.edu.cn/info/jwis2010/Themes/jwisDefault/images/leftnavbot.jpg);
+		background-image:none;
 		background-repeat:no-repeat;
 	}
 #leftnav ul li a.leftnavbot:hover
@@ -554,7 +554,7 @@ h1,h2,h3,h4,h5,h6,span,ul,li
 		font-weight: bold;
 		color:#b22d00;
 		text-decoration:none;		
-		background-image:url(https://web.archive.org/web/20110707031046/http://xy.scau.edu.cn/info/jwis2010/Themes/jwisDefault/images/leftnavbot.jpg);
+		background-image:none;
 		background-repeat:no-repeat;
 	}
 /*-------------------------------------------------------------------------------------LEFTRPART----------------------------------------------------------------END--*/	
@@ -659,7 +659,7 @@ h1,h2,h3,h4,h5,h6,span,ul,li
 		float: left;
 		margin:22px 0 44px 0;
 		padding:0px;
-		background-image:url(https://web.archive.org/web/20110707031046/http://xy.scau.edu.cn/info/jwis2010/Themes/jwisDefault/images/commentsbg.jpg);
+		background-image:none;
 		background-repeat:no-repeat;
 	}
 #addcomments
@@ -832,7 +832,7 @@ h1,h2,h3,h4,h5,h6,span,ul,li
 		font-size:11px;
 		color:#c17305;
 		text-decoration:none;
-		background-image:url(https://web.archive.org/web/20110707031046/http://xy.scau.edu.cn/info/jwis2010/Themes/jwisDefault/images/purposeactive.jpg);
+		background-image:none;
 		background-repeat:no-repeat;
 	}
 #purposenav ul li a.purposenav:hover
@@ -846,7 +846,7 @@ h1,h2,h3,h4,h5,h6,span,ul,li
 		font-size:11px;
 		color:#c17305;
 		text-decoration:none;
-		background-image: url(https://web.archive.org/web/20110707031046/http://xy.scau.edu.cn/info/jwis2010/Themes/jwisDefault/images/purposeover.jpg);
+		background-image: none;
 		background-repeat:no-repeat;
 	}
 /*-------------------------------------------------------------------------------------MIDPART------------------------------------------------------------END---------*/		
@@ -902,7 +902,7 @@ h1,h2,h3,h4,h5,h6,span,ul,li
 		float:left;
 		margin:0px;
 		padding:0px;
-		background-image:url(https://web.archive.org/web/20110707031046/http://xy.scau.edu.cn/info/jwis2010/Themes/jwisDefault/images/rightpic.jpg);
+		background-image:none;
 		background-repeat:no-repeat;
 	}
 .rightpic:hover
@@ -912,7 +912,7 @@ h1,h2,h3,h4,h5,h6,span,ul,li
 		float:left;
 		margin:0px;
 		padding:0px;
-		background-image:url(https://web.archive.org/web/20110707031046/http://xy.scau.edu.cn/info/jwis2010/Themes/jwisDefault/images/rightpic.jpg);
+		background-image:none;
 		background-repeat:no-repeat;
 	}
 #rightpic02
@@ -930,7 +930,7 @@ h1,h2,h3,h4,h5,h6,span,ul,li
 		float:left;
 		margin:0px;
 		padding:0px;
-		background-image:url(https://web.archive.org/web/20110707031046/http://xy.scau.edu.cn/info/jwis2010/Themes/jwisDefault/images/rightpic02.jpg);
+		background-image:none;
 		background-repeat:no-repeat;
 	}
 .rightpic02:hover
@@ -940,7 +940,7 @@ h1,h2,h3,h4,h5,h6,span,ul,li
 		float:left;
 		margin:0px;
 		padding:0px;
-		background-image:url(https://web.archive.org/web/20110707031046/http://xy.scau.edu.cn/info/jwis2010/Themes/jwisDefault/images/rightpic02.jpg);
+		background-image:none;
 		background-repeat:no-repeat;
 	}
 	
@@ -959,7 +959,7 @@ h1,h2,h3,h4,h5,h6,span,ul,li
 		float:left;
 		margin:0px;
 		padding:0px;
-		background-image:url(https://web.archive.org/web/20110707031046/http://xy.scau.edu.cn/info/jwis2010/Themes/jwisDefault/images/rightpic03.jpg);
+		background-image:none;
 		background-repeat:no-repeat;
 	}
 .rightpic03:hover
@@ -969,7 +969,7 @@ h1,h2,h3,h4,h5,h6,span,ul,li
 		float:left;
 		margin:0px;
 		padding:0px;
-		background-image:url(https://web.archive.org/web/20110707031046/http://xy.scau.edu.cn/info/jwis2010/Themes/jwisDefault/images/rightpic03.jpg);
+		background-image:none;
 		background-repeat:no-repeat;
 	}
 .viewbutton
@@ -1000,7 +1000,7 @@ h1,h2,h3,h4,h5,h6,span,ul,li
 		color:#000;
 		text-align:center;
 		text-decoration:none;
-		background-image:url(https://web.archive.org/web/20110707031046/http://xy.scau.edu.cn/info/jwis2010/Themes/jwisDefault/images/viewmore.jpg);
+		background-image:none;
 		background-repeat:no-repeat;
 	}
 .view:hover
@@ -1015,7 +1015,7 @@ h1,h2,h3,h4,h5,h6,span,ul,li
 		color:#000;
 		text-align:center;
 		text-decoration:none;
-		background-image: url(https://web.archive.org/web/20110707031046/http://xy.scau.edu.cn/info/jwis2010/Themes/jwisDefault/images/viewmoreover.jpg);
+		background-image: none;
 		background-repeat:no-repeat;
 	}
 .righttxt
@@ -1071,7 +1071,7 @@ h1,h2,h3,h4,h5,h6,span,ul,li
 		float:left;
 		margin:0px;
 		padding:0px;
-		background-image:url(https://web.archive.org/web/20110707031046/http://xy.scau.edu.cn/info/jwis2010/Themes/jwisDefault/images/footerbox.jpg);
+		background-image:none;
 		background-repeat:no-repeat;
 	}
 #footermid
@@ -1081,7 +1081,7 @@ h1,h2,h3,h4,h5,h6,span,ul,li
 		float:left;
 		margin:0 35px 0 35px;
 		padding:0px;
-		background-image:url(https://web.archive.org/web/20110707031046/http://xy.scau.edu.cn/info/jwis2010/Themes/jwisDefault/images/footerbox.jpg);
+		background-image:none;
 		background-repeat:no-repeat;
 	}
 #footerlast
@@ -1091,7 +1091,7 @@ h1,h2,h3,h4,h5,h6,span,ul,li
 		float:left;
 		margin:0px;
 		padding:0px;
-		background-image:url(https://web.archive.org/web/20110707031046/http://xy.scau.edu.cn/info/jwis2010/Themes/jwisDefault/images/footerbox.jpg);
+		background-image:none;
 		background-repeat:no-repeat;
 	}
 .footerheading
@@ -1150,7 +1150,7 @@ h1,h2,h3,h4,h5,h6,span,ul,li
 		color:#000;
 		text-align:center;
 		text-decoration:none;
-		background-image:url(https://web.archive.org/web/20110707031046/http://xy.scau.edu.cn/info/jwis2010/Themes/jwisDefault/images/footerbutton.jpg);
+		background-image:none;
 		background-repeat:no-repeat;
 	}
 .button:hover
@@ -1165,7 +1165,7 @@ h1,h2,h3,h4,h5,h6,span,ul,li
 		color:#000;
 		text-align:center;
 		text-decoration:none;
-		background-image: url(https://web.archive.org/web/20110707031046/http://xy.scau.edu.cn/info/jwis2010/Themes/jwisDefault/images/footerover.jpg);
+		background-image: none;
 		background-repeat:no-repeat;
 	}
 #footerlinks

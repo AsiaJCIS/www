@@ -90,7 +90,7 @@ div#header {
 	padding-bottom:0em;
 	color: #000000;
 	line-height: 1.6em;
-	background:transparent url(https://web.archive.org/web/20150123145811/http://asiajcis.org/2013/img/head_bg.png) no-repeat top left;
+	background:transparent none no-repeat top left;
 	/*position:relative;*/
 }
 
@@ -119,7 +119,7 @@ ul#menu
 	height:30px;
 	font-size:12px;
 	font-weight:bold;
-	background:transparent url(https://web.archive.org/web/20150123145811/http://asiajcis.org/2013/img/nav_bg.png) repeat-x top left;
+	background:transparent none repeat-x top left;
 	font-family:Arial, Helvetica, sans-serif;
 	border-bottom:1px solid #000000;
 	border-top:1px solid #000000;
@@ -147,7 +147,7 @@ ul#menu li a:hover
 {	
 	color:#ffffff;
 	height:22px;
-	background:transparent url(https://web.archive.org/web/20150123145811/http://asiajcis.org/2013/img/nav_bg.png) 0px -30px no-repeat;		
+	background:transparent none 0px -30px no-repeat;		
 }
 	
 
@@ -155,7 +155,7 @@ ul#menu li a.current
 {
 	display:inline;
 	height:22px;
-	background:transparent url(https://web.archive.org/web/20150123145811/http://asiajcis.org/2013/img/nav_bg.png) 0px -30px no-repeat;	
+	background:transparent none 0px -30px no-repeat;	
 	float:left;
 	margin:0;
 }

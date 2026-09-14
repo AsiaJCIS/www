@@ -7,7 +7,7 @@ DIV {
 	BACKGROUND-COLOR: #ffffff; TEXT-ALIGN: left
 }
 BODY {
-	FONT-SIZE: 12px; BACKGROUND-IMAGE: url(https://web.archive.org/web/20160930061627/http://is.hbut.edu.cn/asiajcis2014/pic/bg.gif); LINE-HEIGHT: 180%; FONT-FAMILY: Arial, "ËÎÌå"
+	FONT-SIZE: 12px; BACKGROUND-IMAGE: none; LINE-HEIGHT: 180%; FONT-FAMILY: Arial, "ËÎÌå"
 }
 A {
 	COLOR: #000000; TEXT-DECORATION: none
@@ -76,7 +76,7 @@ A:hover {
 	COLOR: #339900; TEXT-DECORATION: underline
 }
 .title {
-	CLEAR: both; PADDING-LEFT: 15px; FONT-WEIGHT: bold; BACKGROUND-IMAGE: url(https://web.archive.org/web/20160930061627/http://is.hbut.edu.cn/asiajcis2014/pic/titlebg.jpg); WIDTH: 580px; COLOR: #484848; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 29px
+	CLEAR: both; PADDING-LEFT: 15px; FONT-WEIGHT: bold; BACKGROUND-IMAGE: none; WIDTH: 580px; COLOR: #484848; PADDING-TOP: 5px; BACKGROUND-REPEAT: no-repeat; HEIGHT: 29px
 }
 .title A:hover {
 	TEXT-DECORATION: none
@@ -157,13 +157,13 @@ A:hover {
 	FLOAT: left; BORDER-LEFT: #dddddd 1px solid; WIDTH: 285px; HEIGHT: 490px
 }
 .rightb {
-	BACKGROUND: url(https://web.archive.org/web/20160930061627/http://is.hbut.edu.cn/asiajcis2014/pic/rbbg.gif) no-repeat; FLOAT: left; WIDTH: 3px; HEIGHT: 490px
+	BACKGROUND: none no-repeat; FLOAT: left; WIDTH: 3px; HEIGHT: 490px
 }
 .rightc {
-	BACKGROUND: url(https://web.archive.org/web/20160930061627/http://is.hbut.edu.cn/asiajcis2014/pic/rcbg.jpg) repeat-y; FLOAT: left; WIDTH: 200px; HEIGHT: 490px; margin-top:0px
+	BACKGROUND: none repeat-y; FLOAT: left; WIDTH: 200px; HEIGHT: 490px; margin-top:0px
 }
 .rightd {
-	BACKGROUND: url(https://web.archive.org/web/20160930061627/http://is.hbut.edu.cn/asiajcis2014/pic/rcbg.jpg) repeat-y; FLOAT: left; WIDTH: 180px; HEIGHT: 200px
+	BACKGROUND: none repeat-y; FLOAT: left; WIDTH: 180px; HEIGHT: 200px
 }
 .grid {
 	PADDING-RIGHT: 10px; PADDING-LEFT: 10px; PADDING-BOTTOM: 10px; PADDING-TOP: 0px
@@ -191,7 +191,7 @@ A:hover {
 	CLEAR: both; HEIGHT: 40px
 }
 .foot {
-CLEAR: both; PADDING-LEFT: 30px; BACKGROUND: url(https://web.archive.org/web/20160930061627/http://is.hbut.edu.cn/asiajcis2014/pic/footbg.gif) repeat-x; COLOR: #ffffff; LINE-HEIGHT: 160%; PADDING-TOP: 26px; HEIGHT: 80px;
+CLEAR: both; PADDING-LEFT: 30px; BACKGROUND: none repeat-x; COLOR: #ffffff; LINE-HEIGHT: 160%; PADDING-TOP: 26px; HEIGHT: 80px;
 }
 #nav {
 	HEIGHT: 40px
@@ -276,7 +276,7 @@ div#header {
 	padding-bottom:0em;
 	color: #000000;
 	line-height: 1.6em;
-	background:transparent url(https://web.archive.org/web/20160930061627/http://is.hbut.edu.cn/asiajcis2014/image/img/head_bg.png) no-repeat top left;
+	background:transparent none no-repeat top left;
 	/*position:relative;*/
 }
 
@@ -305,7 +305,7 @@ ul#menu
 	height:30px;
 	font-size:12px;
 	font-weight:bold;
-	background:transparent url(https://web.archive.org/web/20160930061627/http://is.hbut.edu.cn/asiajcis2014/image/img/nav_bg.png) repeat-x top left;
+	background:transparent none repeat-x top left;
 	font-family:Arial, Helvetica, sans-serif;
 	border-bottom:1px solid #000000;
 	border-top:1px solid #000000;
@@ -333,7 +333,7 @@ ul#menu li a:hover
 {	
 	color:#ffffff;
 	height:22px;
-	background:transparent url(https://web.archive.org/web/20160930061627/http://is.hbut.edu.cn/asiajcis2014/image/img/nav_bg.png) 0px -30px no-repeat;		
+	background:transparent none 0px -30px no-repeat;		
 }
 	
 
@@ -341,7 +341,7 @@ ul#menu li a.current
 {
 	display:inline;
 	height:22px;
-	background:transparent url(https://web.archive.org/web/20160930061627/http://is.hbut.edu.cn/asiajcis2014/image/img/nav_bg.png) 0px -30px no-repeat;	
+	background:transparent none 0px -30px no-repeat;	
 	float:left;
 	margin:0;
 }

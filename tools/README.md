@@ -12,6 +12,10 @@
   Wayback に存在しないファイルへの `<script>`/`<link>` も削除。残している外部参照は
   Google Fonts（2019/2020/2023/2025）、Google Sites の CSS（2011）、Google Maps の埋め込み iframe のみ。
   追加時は `grep -rhoiE '<(script|link|iframe)[^>]+(src|href)="(https?:)?//[^"/]+' docs/archive` で確認。
+- **web.archive.org へのリンクも置かない。** `wayback_mirror.py` は取得できなかったものを Wayback の URL に
+  向けて出力するが、その後 `<a>` はリンク解除（テキストのみ残す）、`<img>`/iframe は削除、`<form action>` は `#`、
+  CSS の `url()` は `none` に置換している（`docs/index.md` の表からも Wayback 列を除いた）。
+  取得元と時刻は各ディレクトリの `_wayback_manifest.json` と HTML 先頭のコメントに残っている。
 - 原サイトが生きている年は wget、死んでいる年は Wayback からの復元（`_wayback_manifest.json` に取得元と時刻を記録）。
 
 ## 取得方法
