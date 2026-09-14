@@ -1,0 +1,236 @@
+html {
+  color: rgb(0, 0, 0);
+  background-color: #e1e1e1;
+  background-image: none;
+  background-repeat: repeat;
+  background-attachment: scroll;
+  background-position: 0% 0%;
+}
+body {
+  margin-top: 0pt;
+  margin-right: 0pt;
+  margin-bottom: 0pt;
+  margin-left: 0pt;
+  padding-top: 0pt;
+  padding-right: 0pt;
+  padding-bottom: 0pt;
+  padding-left: 0pt;
+  font-style: normal;
+  font-variant: normal;
+  font-weight: normal;
+  font-size: 0.9em;
+  line-height: 1.231em;
+  font-family: arial, helvetica, clean, sans-serif;
+  text-align:justify;
+}
+
+table#summary td, table#summary th {
+	padding-top:0.5em;
+	padding-bottom:0.5em;
+}
+
+table#summary th {
+	width:160px;
+	text-align:left;
+	vertical-align:top;
+	font-weight:bold;
+}
+
+table#hotels {
+	border: 1px solid #eeeeee;
+	width: 95%;
+}
+
+table#hotels td, table#hotels th {
+	padding-top:0.5em;
+	padding-bottom:0.5em;
+	border: 1px solid #cccccc;
+	text-align:center;
+	vertical-align:middle;
+}
+
+table#hotels th {
+	font-weight:bold;
+}
+
+table#news th {
+	text-align: left;
+	border-top: 1px solid #cccccc;
+	vertical-align: top;
+}
+
+table#news td {
+	text-align: left;
+	vertical-align: top;
+	border-top: 1px solid #cccccc;
+}
+
+div#main {
+	padding: 0.4em;
+}
+
+div#shadow {
+	width:780px;
+	margin:auto;
+	background-color:#ffffff;
+	padding-top:0em;
+	padding-left:0.1em;
+	padding-right:0.1em;
+	padding-bottom:0em;
+}
+
+div#header {
+	height: 250px;
+	padding-top:0.1em;
+	padding-left:0.5em;
+	padding-right:0.5em;
+	padding-bottom:0em;
+	color: #000000;
+	line-height: 1.6em;
+	background:transparent url(img/head_bg.png) no-repeat top left;
+	/*position:relative;*/
+}
+
+div#header * {
+	display:none;
+}
+
+/*div#header h1 {
+	position:absolute;
+	height:10em;
+	margin-top:80%
+}*/
+
+/*div#header:after {
+	content:"Temporary background image."
+}*/
+
+ul#menu
+{
+	margin:0;
+	padding:0;
+	list-style-type:none;
+	width:auto;
+	position:relative;
+	display:block;
+	height:30px;
+	font-size:12px;
+	font-weight:bold;
+	background:transparent url(img/nav_bg.png) repeat-x top left;
+	font-family:Arial, Helvetica, sans-serif;
+	border-bottom:1px solid #000000;
+	border-top:1px solid #000000;
+}
+
+ul#menu li
+{
+	display:block;
+	float:left;
+	margin:0;
+	padding:0;
+}
+	
+ul#menu li a
+{
+	display:block;
+	float:left;
+	color:#999999;
+	text-decoration:none;
+	font-weight:bold;
+	padding:8px 20px 0 20px;
+}
+	
+ul#menu li a:hover
+{	
+	color:#ffffff;
+	height:22px;
+	background:transparent url(img/nav_bg.png) 0px -30px no-repeat;		
+}
+	
+
+ul#menu li a.current
+{
+	display:inline;
+	height:22px;
+	background:transparent url(img/nav_bg.png) 0px -30px no-repeat;	
+	float:left;
+	margin:0;
+}
+
+div#footer {
+	border-top:1px solid #444444;
+	padding-top:0em;
+	padding-bottom: 1em;
+	font-size:small;
+	text-align:left;
+}
+
+div#footer:after {
+	content:" 2012, AsiaJCIS. All rights reserved."
+}
+
+ul.splList1 {
+	list-style-type:square;
+	margin-top:0em;
+	padding-top:0em;
+	margin-left:0.5em;
+	padding-left:0.5em;
+}
+
+ul.splList2 {
+	list-style-type:square;
+	margin-top:0em;
+	padding-top:0em;
+}
+
+table.dualColumn td {
+	text-align:left;
+	vertical-align:top;
+	padding-left: 1em;
+	padding-right: 1em;
+	width:50%;
+}
+
+table#tblAcceptedPapers {
+	width: 100%;
+	padding: 1em;
+}
+
+table#tblAcceptedPapers thead td {
+	background-color: #ececec;
+	font-weight: bold;
+	text-align: center;
+}
+
+table#tblAcceptedPapers td {
+	border: 1px solid #cccccc;
+	padding: 0.2em;
+	text-align: left;
+}
+
+table#tblAcceptedPapers tr td:first-child {
+	width:75%;
+}
+
+.highlight {
+	background-color: yellow;
+}
+
+table#tblKeynote {
+	width: 100%;
+	padding: 1em;
+}
+
+table#tblKeynote th {
+	background-color: #ececec;
+	border: 1px solid #cccccc;
+	font-weight: bold;
+	text-align: left;
+}
+
+table#tblKeynote td {
+	border: 1px solid #cccccc;
+	padding: 0.4em;
+	text-align: justify;
+	vertical-align:top;
+}

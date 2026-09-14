@@ -1,0 +1,105 @@
+{
+ "start": "http://asiajcis2021.sch.ac.kr/",
+ "requested_ts": "20211021181036",
+ "scope": "http://asiajcis2021.sch.ac.kr/",
+ "fetched": {
+  "http://asiajcis2021.sch.ac.kr/": {
+   "local": "index.html",
+   "ts": "20211021181036",
+   "type": "text/html",
+   "bytes": 5546
+  },
+  "http://asiajcis2021.sch.ac.kr/index.php": {
+   "local": "index.php.html",
+   "ts": "20210802084403",
+   "type": "text/html",
+   "bytes": 5356
+  },
+  "http://asiajcis2021.sch.ac.kr/callpapers.php": {
+   "local": "callpapers.php.html",
+   "ts": "20210917062548",
+   "type": "text/html",
+   "bytes": 6976
+  },
+  "http://asiajcis2021.sch.ac.kr/call.php": {
+   "local": "call.php.html",
+   "ts": "20210917073550",
+   "type": "text/html",
+   "bytes": 5567
+  },
+  "http://asiajcis2021.sch.ac.kr/program_2021.php": {
+   "local": "program_2021.php.html",
+   "ts": "20211021170147",
+   "type": "text/html",
+   "bytes": 15055
+  },
+  "http://asiajcis2021.sch.ac.kr/keynote.php": {
+   "local": "keynote.php.html",
+   "ts": "20210917060116",
+   "type": "text/html",
+   "bytes": 12242
+  },
+  "http://asiajcis2021.sch.ac.kr/submission.php": {
+   "local": "submission.php.html",
+   "ts": "20210917071336",
+   "type": "text/html",
+   "bytes": 5186
+  },
+  "http://asiajcis2021.sch.ac.kr/registration.php": {
+   "local": "registration.php.html",
+   "ts": "20210917071506",
+   "type": "text/html",
+   "bytes": 8753
+  },
+  "http://asiajcis2021.sch.ac.kr/information.php": {
+   "local": "information.php.html",
+   "ts": "20210917075652",
+   "type": "text/html",
+   "bytes": 9182
+  },
+  "http://asiajcis2021.sch.ac.kr/contact.php": {
+   "local": "contact.php.html",
+   "ts": "20210917071549",
+   "type": "text/html",
+   "bytes": 4482
+  },
+  "http://asiajcis2021.sch.ac.kr/ASIAJCIS-2022-Baoding.pdf": {
+   "local": "ASIAJCIS-2022-Baoding.pdf",
+   "ts": "20210917055621",
+   "type": "application/pdf",
+   "bytes": 1048576
+  },
+  "http://asiajcis2021.sch.ac.kr/AsiaJCIS_CFP.pdf": {
+   "local": "AsiaJCIS_CFP.pdf",
+   "ts": "20210820091654",
+   "type": "application/pdf",
+   "bytes": 2874991
+  },
+  "http://asiajcis2021.sch.ac.kr/conference_registration_form_2021.pdf": {
+   "local": "conference_registration_form_2021.pdf",
+   "ts": "20210802085213",
+   "type": "application/pdf",
+   "bytes": 20377
+  }
+ },
+ "failed": {
+  "http://asiajcis2021.sch.ac.kr/img/banner.png": "404 not in wayback",
+  "http://asiajcis2021.sch.ac.kr/img/kiisc_logo.png": "404 not in wayback",
+  "http://asiajcis2021.sch.ac.kr/img/logo.jpg": "404 not in wayback",
+  "http://asiajcis2021.sch.ac.kr/img/KISA.png": "404 not in wayback",
+  "http://asiajcis2021.sch.ac.kr/img/KT.png": "404 not in wayback",
+  "http://asiajcis2021.sch.ac.kr/img/TTA.jpg": "404 not in wayback",
+  "http://asiajcis2021.sch.ac.kr/img/KSEL.png": "404 not in wayback",
+  "http://asiajcis2021.sch.ac.kr/img/IEIEC.png": "404 not in wayback",
+  "http://asiajcis2021.sch.ac.kr/img/CCISA_logo.png": "404 not in wayback",
+  "http://asiajcis2021.sch.ac.kr/style.css": "404 not in wayback",
+  "http://asiajcis2021.sch.ac.kr/img/keynote.jpg": "404 not in wayback",
+  "http://asiajcis2021.sch.ac.kr/img/Katsunari.JPG": "404 not in wayback",
+  "http://asiajcis2021.sch.ac.kr/img/chia-Mu.JPG": "404 not in wayback",
+  "http://asiajcis2021.sch.ac.kr/img/Daisuke.JPG": "404 not in wayback",
+  "http://asiajcis2021.sch.ac.kr/img/Haojin.jpeg": "404 not in wayback",
+  "http://asiajcis2021.sch.ac.kr/img/Ruei.jpg": "404 not in wayback",
+  "http://asiajcis2021.sch.ac.kr/conference_registration_form_2021.doc": "404 not in wayback"
+ },
+ "unfetched_queue": []
+}

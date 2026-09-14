@@ -1,0 +1,180 @@
+{
+ "start": "http://is.hbut.edu.cn/asiajcis2014/",
+ "requested_ts": "20200114121623",
+ "scope": "http://is.hbut.edu.cn/asiajcis2014/",
+ "fetched": {
+  "http://is.hbut.edu.cn/asiajcis2014/": {
+   "local": "index.html",
+   "ts": "20200114121623",
+   "type": "text/html",
+   "bytes": 6983
+  },
+  "http://is.hbut.edu.cn/asiajcis2014/img/top.jpg": {
+   "local": "img/top.jpg",
+   "ts": "20160930062804",
+   "type": "image/jpeg",
+   "bytes": 64802
+  },
+  "http://is.hbut.edu.cn/asiajcis2014/images/nav01.png": {
+   "local": "images/nav01.png",
+   "ts": "20160930062842",
+   "type": "image/png",
+   "bytes": 25125
+  },
+  "http://is.hbut.edu.cn/asiajcis2014/images/nav02.png": {
+   "local": "images/nav02.png",
+   "ts": "20160930060802",
+   "type": "image/png",
+   "bytes": 27074
+  },
+  "http://is.hbut.edu.cn/asiajcis2014/images/nav03.png": {
+   "local": "images/nav03.png",
+   "ts": "20160930061319",
+   "type": "image/png",
+   "bytes": 25679
+  },
+  "http://is.hbut.edu.cn/asiajcis2014/images/nav04.png": {
+   "local": "images/nav04.png",
+   "ts": "20160930061728",
+   "type": "image/png",
+   "bytes": 25711
+  },
+  "http://is.hbut.edu.cn/asiajcis2014/images/nav05.png": {
+   "local": "images/nav05.png",
+   "ts": "20160930060953",
+   "type": "image/png",
+   "bytes": 26426
+  },
+  "http://is.hbut.edu.cn/asiajcis2014/images/nav06.png": {
+   "local": "images/nav06.png",
+   "ts": "20160930062434",
+   "type": "image/png",
+   "bytes": 27166
+  },
+  "http://is.hbut.edu.cn/asiajcis2014/images/nav07.png": {
+   "local": "images/nav07.png",
+   "ts": "20160930062038",
+   "type": "image/png",
+   "bytes": 24869
+  },
+  "http://is.hbut.edu.cn/asiajcis2014/images/nav08.png": {
+   "local": "images/nav08.png",
+   "ts": "20160930062223",
+   "type": "image/png",
+   "bytes": 24645
+  },
+  "http://is.hbut.edu.cn/asiajcis2014/image/NSFC.jpg": {
+   "local": "image/NSFC.jpg",
+   "ts": "20160930062808",
+   "type": "image/jpeg",
+   "bytes": 2645
+  },
+  "http://is.hbut.edu.cn/asiajcis2014/image/hbut.jpg": {
+   "local": "image/hbut.jpg",
+   "ts": "20160930061753",
+   "type": "image/jpeg",
+   "bytes": 728728
+  },
+  "http://is.hbut.edu.cn/asiajcis2014/image/imageover.js": {
+   "local": "image/imageover.js",
+   "ts": "20160930060620",
+   "type": "application/x-javascript",
+   "bytes": 3923
+  },
+  "http://is.hbut.edu.cn/asiajcis2014/image/v1.css": {
+   "local": "image/v1.css",
+   "ts": "20160930061627",
+   "type": "text/css",
+   "bytes": 9288
+  },
+  "http://is.hbut.edu.cn/asiajcis2014/index.html": {
+   "local": "index.html",
+   "ts": "20191215181149",
+   "type": "text/html",
+   "bytes": 6983
+  },
+  "http://is.hbut.edu.cn/asiajcis2014/cfp.html": {
+   "local": "cfp.html",
+   "ts": "20171028061601",
+   "type": "text/html",
+   "bytes": 5273
+  },
+  "http://is.hbut.edu.cn/asiajcis2014/organization.html": {
+   "local": "organization.html",
+   "ts": "20171027100022",
+   "type": "text/html",
+   "bytes": 11444
+  },
+  "http://is.hbut.edu.cn/asiajcis2014/program.html": {
+   "local": "program.html",
+   "ts": "20171029133143",
+   "type": "text/html",
+   "bytes": 15371
+  },
+  "http://is.hbut.edu.cn/asiajcis2014/submission.html": {
+   "local": "submission.html",
+   "ts": "20171028061741",
+   "type": "text/html",
+   "bytes": 3582
+  },
+  "http://is.hbut.edu.cn/asiajcis2014/registration.html": {
+   "local": "registration.html",
+   "ts": "20171028061731",
+   "type": "text/html",
+   "bytes": 6395
+  },
+  "http://is.hbut.edu.cn/asiajcis2014/contact.html": {
+   "local": "contact.html",
+   "ts": "20171028061605",
+   "type": "text/html",
+   "bytes": 6998
+  },
+  "http://is.hbut.edu.cn/asiajcis2014/travel.html": {
+   "local": "travel.html",
+   "ts": "20171027100046",
+   "type": "text/html",
+   "bytes": 12737
+  },
+  "http://is.hbut.edu.cn/asiajcis2014/program.pdf": {
+   "local": "program.pdf",
+   "ts": "20170830070903",
+   "type": "application/pdf",
+   "bytes": 498422
+  }
+ },
+ "failed": {
+  "http://is.hbut.edu.cn/asiajcis2014/pic/bg.gif": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/pic/titlebg.jpg": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/pic/rbbg.gif": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/pic/rcbg.jpg": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/pic/footbg.gif": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/image/img/head_bg.png": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/image/img/nav_bg.png": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/CFP-ASIAJCIS2014.pdf": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/registration/reg-form.doc": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/registration/reg-form-cn.doc": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/img/1.jpg": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/img/2.jpg": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/img/3.jpg": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/img/4.jpg": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/RoomReservation.doc": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/pic/2006829145624.jpg": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/pic/2006829152704.jpg": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/pic/2006829150347.jpg": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/pic/2006829152133.jpg": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/pic/2006829151534.jpg": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/pic/2006829150920.jpg": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/pic/2006830135448.jpg": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/pic/2006829152826.jpg": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/pic/2006829145804.jpg": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/pic/2006829145949.jpg": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/pic/2006829150628.jpg": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/pic/2006829151406.jpg": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/image/prototype.lite.js": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/image/moo.fx.js": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/image/litebox-1.0.js": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/image/global.css": "404 not in wayback",
+  "http://is.hbut.edu.cn/asiajcis2014/image/lightbox.css": "404 not in wayback"
+ },
+ "unfetched_queue": []
+}

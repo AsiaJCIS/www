@@ -1,0 +1,279 @@
+{
+ "start": "http://www.ieice.org/~icss/jwis2007/",
+ "requested_ts": "20130512012528",
+ "scope": "http://www.ieice.org/~icss/jwis2007/",
+ "fetched": {
+  "http://www.ieice.org/~icss/jwis2007/": {
+   "local": "index.html",
+   "ts": "20130430181146",
+   "type": "text/html",
+   "bytes": 9361
+  },
+  "http://www.ieice.org/~icss/jwis2007/img/sp.gif": {
+   "local": "img/sp.gif",
+   "ts": "20130502231022",
+   "type": "image/gif",
+   "bytes": 49
+  },
+  "http://www.ieice.org/~icss/jwis2007/img/top.jpg": {
+   "local": "img/top.jpg",
+   "ts": "20130502230749",
+   "type": "image/jpeg",
+   "bytes": 17507
+  },
+  "http://www.ieice.org/~icss/jwis2007/img/logo1.gif": {
+   "local": "img/logo1.gif",
+   "ts": "20130502232814",
+   "type": "image/gif",
+   "bytes": 791
+  },
+  "http://www.ieice.org/~icss/jwis2007/img/menu1.gif": {
+   "local": "img/menu1.gif",
+   "ts": "20130502234738",
+   "type": "image/gif",
+   "bytes": 758
+  },
+  "http://www.ieice.org/~icss/jwis2007/img/menu2.gif": {
+   "local": "img/menu2.gif",
+   "ts": "20130502230147",
+   "type": "image/gif",
+   "bytes": 757
+  },
+  "http://www.ieice.org/~icss/jwis2007/img/menu13.gif": {
+   "local": "img/menu13.gif",
+   "ts": "20130502235421",
+   "type": "image/gif",
+   "bytes": 801
+  },
+  "http://www.ieice.org/~icss/jwis2007/img/menu3.gif": {
+   "local": "img/menu3.gif",
+   "ts": "20130502231221",
+   "type": "image/gif",
+   "bytes": 613
+  },
+  "http://www.ieice.org/~icss/jwis2007/img/menu5.gif": {
+   "local": "img/menu5.gif",
+   "ts": "20130502230322",
+   "type": "image/gif",
+   "bytes": 678
+  },
+  "http://www.ieice.org/~icss/jwis2007/img/menu7.gif": {
+   "local": "img/menu7.gif",
+   "ts": "20130502232909",
+   "type": "image/gif",
+   "bytes": 914
+  },
+  "http://www.ieice.org/~icss/jwis2007/img/menu8.gif": {
+   "local": "img/menu8.gif",
+   "ts": "20130502234855",
+   "type": "image/gif",
+   "bytes": 866
+  },
+  "http://www.ieice.org/~icss/jwis2007/img/menu9.gif": {
+   "local": "img/menu9.gif",
+   "ts": "20130502232402",
+   "type": "image/gif",
+   "bytes": 746
+  },
+  "http://www.ieice.org/~icss/jwis2007/img/menu10.gif": {
+   "local": "img/menu10.gif",
+   "ts": "20130502225233",
+   "type": "image/gif",
+   "bytes": 839
+  },
+  "http://www.ieice.org/~icss/jwis2007/img/menu11.gif": {
+   "local": "img/menu11.gif",
+   "ts": "20130502230536",
+   "type": "image/gif",
+   "bytes": 886
+  },
+  "http://www.ieice.org/~icss/jwis2007/img/menu12.gif": {
+   "local": "img/menu12.gif",
+   "ts": "20130502234251",
+   "type": "image/gif",
+   "bytes": 822
+  },
+  "http://www.ieice.org/~icss/jwis2007/img/icss.gif": {
+   "local": "img/icss.gif",
+   "ts": "20130502225947",
+   "type": "image/gif",
+   "bytes": 1806
+  },
+  "http://www.ieice.org/~icss/jwis2007/img/kiis.gif": {
+   "local": "img/kiis.gif",
+   "ts": "20130502234934",
+   "type": "image/gif",
+   "bytes": 2497
+  },
+  "http://www.ieice.org/~icss/jwis2007/img/jwis06.gif": {
+   "local": "img/jwis06.gif",
+   "ts": "20130502224733",
+   "type": "image/gif",
+   "bytes": 708
+  },
+  "http://www.ieice.org/~icss/jwis2007/img/mail_c.gif": {
+   "local": "img/mail_c.gif",
+   "ts": "20130502234237",
+   "type": "image/gif",
+   "bytes": 696
+  },
+  "http://www.ieice.org/~icss/jwis2007/img/image.gif": {
+   "local": "img/image.gif",
+   "ts": "20130502233905",
+   "type": "image/gif",
+   "bytes": 102946
+  },
+  "http://www.ieice.org/~icss/jwis2007/img/news.gif": {
+   "local": "img/news.gif",
+   "ts": "20130502224807",
+   "type": "image/gif",
+   "bytes": 1019
+  },
+  "http://www.ieice.org/~icss/jwis2007/img/copy.gif": {
+   "local": "img/copy.gif",
+   "ts": "20130502232357",
+   "type": "image/gif",
+   "bytes": 1395
+  },
+  "http://www.ieice.org/~icss/jwis2007/js/def.js": {
+   "local": "js/def.js",
+   "ts": "20130502231318",
+   "type": "application/x-javascript",
+   "bytes": 2303
+  },
+  "http://www.ieice.org/~icss/jwis2007/js/load.js": {
+   "local": "js/load.js",
+   "ts": "20130502233307",
+   "type": "application/x-javascript",
+   "bytes": 303
+  },
+  "http://www.ieice.org/~icss/jwis2007/css/base.css": {
+   "local": "css/base.css",
+   "ts": "20130502234743",
+   "type": "text/css",
+   "bytes": 3434
+  },
+  "http://www.ieice.org/~icss/jwis2007/index.html": {
+   "local": "index.html",
+   "ts": "20130512014703",
+   "type": "text/html",
+   "bytes": 9361
+  },
+  "http://www.ieice.org/~icss/jwis2007/org.html": {
+   "local": "org.html",
+   "ts": "20130512012559",
+   "type": "text/html",
+   "bytes": 12392
+  },
+  "http://www.ieice.org/~icss/jwis2007/imp.html": {
+   "local": "imp.html",
+   "ts": "20130512012501",
+   "type": "text/html",
+   "bytes": 8213
+  },
+  "http://www.ieice.org/~icss/jwis2007/call.html": {
+   "local": "call.html",
+   "ts": "20130512022034",
+   "type": "text/html",
+   "bytes": 7482
+  },
+  "http://www.ieice.org/~icss/jwis2007/prog.html": {
+   "local": "prog.html",
+   "ts": "20130512013237",
+   "type": "text/html",
+   "bytes": 30779
+  },
+  "http://www.ieice.org/~icss/jwis2007/inv.html": {
+   "local": "inv.html",
+   "ts": "20130512015355",
+   "type": "text/html",
+   "bytes": 8868
+  },
+  "http://www.ieice.org/~icss/jwis2007/acc.html": {
+   "local": "acc.html",
+   "ts": "20130512022451",
+   "type": "text/html",
+   "bytes": 21663
+  },
+  "http://www.ieice.org/~icss/jwis2007/paper.html": {
+   "local": "paper.html",
+   "ts": "20130512014938",
+   "type": "text/html",
+   "bytes": 9456
+  },
+  "http://www.ieice.org/~icss/jwis2007/reg.html": {
+   "local": "reg.html",
+   "ts": "20130512013542",
+   "type": "text/html",
+   "bytes": 9699
+  },
+  "http://www.ieice.org/~icss/jwis2007/venue.html": {
+   "local": "venue.html",
+   "ts": "20130512012528",
+   "type": "text/html",
+   "bytes": 8714
+  },
+  "http://www.ieice.org/~icss/jwis2007/general.html": {
+   "local": "general.html",
+   "ts": "20130512012637",
+   "type": "text/html",
+   "bytes": 9128
+  },
+  "http://www.ieice.org/~icss/jwis2007/accom.html": {
+   "local": "accom.html",
+   "ts": "20130512020040",
+   "type": "text/html",
+   "bytes": 10298
+  },
+  "http://www.ieice.org/~icss/jwis2007/img/pdf.gif": {
+   "local": "img/pdf.gif",
+   "ts": "20130517000139",
+   "type": "image/gif",
+   "bytes": 391
+  },
+  "http://www.ieice.org/~icss/jwis2007/pdf/jwis_cfp.pdf": {
+   "local": "pdf/jwis_cfp.pdf",
+   "ts": "20130612032729",
+   "type": "application/pdf",
+   "bytes": 82032
+  },
+  "http://www.ieice.org/~icss/jwis2007/pdf/Program.pdf": {
+   "local": "pdf/Program.pdf",
+   "ts": "20130611232651",
+   "type": "application/pdf",
+   "bytes": 119050
+  },
+  "http://www.ieice.org/~icss/jwis2007/pdf/Invited-1.pdf": {
+   "local": "pdf/Invited-1.pdf",
+   "ts": "20130612023326",
+   "type": "application/pdf",
+   "bytes": 949376
+  },
+  "http://www.ieice.org/~icss/jwis2007/pdf/Invited-2.pdf": {
+   "local": "pdf/Invited-2.pdf",
+   "ts": "20130612052735",
+   "type": "application/pdf",
+   "bytes": 1649987
+  },
+  "http://www.ieice.org/~icss/jwis2007/pdf/Invited-4.pdf": {
+   "local": "pdf/Invited-4.pdf",
+   "ts": "20130612041937",
+   "type": "application/pdf",
+   "bytes": 3076690
+  },
+  "http://www.ieice.org/~icss/jwis2007/pdf/Invited-5.pdf": {
+   "local": "pdf/Invited-5.pdf",
+   "ts": "20130612050047",
+   "type": "application/pdf",
+   "bytes": 2145067
+  },
+  "http://www.ieice.org/~icss/jwis2007/JWIS2007-regist.doc": {
+   "local": "JWIS2007-regist.doc",
+   "ts": "20130611231404",
+   "type": "application/msword",
+   "bytes": 37888
+  }
+ },
+ "failed": {},
+ "unfetched_queue": []
+}

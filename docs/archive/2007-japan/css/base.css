@@ -1,0 +1,181 @@
+/* NÖW */
+
+a:link{color: #0066cc;text-decoration: none}
+a:visited{color: #0066cc;text-decoration: none}
+a:hover{color:#FF3300; text-decoration: underline}
+a:active{color: #0066cc;text-decoration: none}
+
+
+/* bodyx[X */
+
+body {  
+	margin : 0px ;
+	background-color : #FFFFFF ;
+	font-family: "lr oSVbN","Osaka" ;
+	font-size : 12px ;
+	line-height:150% ;
+	color : #333333 ;
+}
+
+img {
+	border: 0;
+}
+
+h1{
+	width:95%;
+	background-color:#CCCCCC;
+	border: 1px solid #DCDCDC;
+	margin:0px 0px 10px 0px;
+	padding:5px;
+	font-size:15px;
+	font-weight :bold;
+	color : #006699;
+}
+
+h2{
+	width:95%;
+	background-color : #FFFFFF ;
+	border: 1px solid #DCDCDC;
+	font-size : 14px ;
+	font-weight :bold;
+	color : #0066cc;
+	margin:10px 20px 10px 0px;
+	padding:4px 4px 4px 4px;
+}
+
+
+h3{
+	font-size : 14px ;
+	color : #CC6600;
+	line-height:170%;
+	margin:10px 5px 10px 5px;
+}
+
+
+h4{
+	font-size : 13px ;
+	color : #006666 ;
+	line-height:160%;
+	margin:5px 20px 5px 10px;
+}
+
+
+h5{
+	background-color : #FFFFFF ;
+	border: 1px solid #DCDCDC;
+	font-size : 14px ;
+	font-weight :bold;
+	color : #000066;
+	margin:0px 0px 10px 0px;
+	padding:4px 4px 4px 4px;
+}
+
+
+th{
+	background-color:#DCDCDC;
+	color: #333;
+	font-weight:bold;
+	text-align:center;
+}
+
+
+ul.none {
+	margin-left:12px;
+	padding-left:10px;
+	list-style-type: none
+}
+
+ul.no {
+	margin-left:0px;
+	padding-left:0px;
+	list-style-type: none
+}
+
+li  {
+    margin-top: 0.5em;
+}@
+
+
+#sp li { 
+	margin-top: 0px; 
+} 
+
+ul.circle {
+	margin-left:12px;
+	padding-left:10px;
+	list-style-type: circle
+}
+
+ul.sq{ 
+	margin-top:0px;
+	margin-bottom:0px;
+	margin-left:8px;
+	padding-left:8px;
+	list-style-type:square; }
+
+.sel2 {
+	font-size: 8pt;
+	line-height: 10pt;
+	padding-top: 2pt;
+	padding-bottom: 2pt;
+}
+
+.tb{
+	font-size : 14px ;
+	font-weight :bold;
+	color : #666666;
+	line-height:170%;
+	margin:10px 5px 10px 10px;
+	padding:5px;
+}
+
+.indent {
+	text-align: right;
+	margin-right: 20px;
+ }
+ 
+ 
+.indent1 {
+   margin-left: 20px;
+   margin-right: 20px;
+ }
+  
+ 
+.style1 {color: #FF6600;
+		line-height:150%;
+}
+
+/* ZF */
+
+.bg1{ color: #333333; font-size:12px; font-weight: bold; background-color: #ff9933; line-height: 150%; margin-left: 20px; margin-top: 20px; margin-right: 20px; margin-bottom: 2px; padding-top: 2px; padding-right: 2px; padding-bottom: 2px; }
+
+
+/* C */
+.line{ color: #333333;  line-height: 130%; clear: both; margin-top: 20px; margin-right: 20px; margin-bottom: 20px; padding-top: 2px; padding-right: 2px; padding-bottom: 20px; border-bottom: 1px dotted #bababa }
+
+
+/* navi */
+.nav{
+	margin:0px 0px 0px 0px;
+	padding:5px 0px 5px 5px;
+	font-size:12px;
+}
+.nav a:link    { color: #0066cc; text-decoration: none; }
+.nav a:visited { color: #0066cc; text-decoration: none; }
+.nav a:hover   { color: #FF3300; text-decoration: underline; }
+.nav a:active  { color: #0066cc; text-decoration: none; }
+
+
+/* TEXT */
+
+.menu{font-size:12px; line-height:170%;}
+.text-1{font-size:12px; line-height:150%;}
+.text-2{font-size:10px; line-height:120%;}
+
+
+.caption-1{font-size:12px; line-height:150%;}
+.caption-2{font-size:10px; line-height:120%;}
+.caption-3{font-size:9px; line-height:120%;}
+.caption-4{font-size:8px; line-height:120%;}
+
+.subt{font-size: 11pt;font-weight: bold;color: #FFFFFF;background-color: #CC0000;line-height: 12pt;padding: 3px;}

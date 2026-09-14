@@ -1,0 +1,43 @@
+{
+ "start": "http://gcis.guet.edu.cn/asiajcis2018/",
+ "requested_ts": "20181020034602",
+ "scope": "http://gcis.guet.edu.cn/asiajcis2018/",
+ "fetched": {
+  "http://gcis.guet.edu.cn/asiajcis2018/": {
+   "local": "index.html",
+   "ts": "20181020034602",
+   "type": "text/html",
+   "bytes": 11887
+  }
+ },
+ "failed": {
+  "http://gcis.guet.edu.cn/asiajcis2018/images/asiajcis2018.jpg": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/images/logo.png": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/images/55207144.jpg": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/images/cps.jpg": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/images/ic_calendar.png": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/js/jquery.js": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/js/bootstrap.min.js": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/js/slick.min.js": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/js/jquery.counterup.min.js": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/css/bootstrap.min.css": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/css/themes/rith-theme.css": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/css/slick.css": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/css/style.css": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/css/firstpage.css": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/footer.html": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/index.html": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/cfp.html": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/cfposter.html": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/organization.html": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/KeynoteSpeakers.html": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/program.html": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/submission.html": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/accepted.html": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/accepted_posters.html": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/registration.html": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/contact.html": "404 not in wayback",
+  "http://gcis.guet.edu.cn/asiajcis2018/venue.html": "404 not in wayback"
+ },
+ "unfetched_queue": []
+}

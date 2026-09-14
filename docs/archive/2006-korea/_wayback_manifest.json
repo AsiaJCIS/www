@@ -1,0 +1,49 @@
+{
+ "start": "http://elec.sch.ac.kr/jwis/",
+ "requested_ts": "20111104040307",
+ "scope": "http://elec.sch.ac.kr/jwis/",
+ "fetched": {
+  "http://elec.sch.ac.kr/jwis/": {
+   "local": "index.html",
+   "ts": "20111104040307",
+   "type": "text/html",
+   "bytes": 3277
+  },
+  "http://elec.sch.ac.kr/jwis/program.html": {
+   "local": "program.html",
+   "ts": "20111103140032",
+   "type": "text/html",
+   "bytes": 2489
+  },
+  "http://elec.sch.ac.kr/jwis/program_1.html": {
+   "local": "program_1.html",
+   "ts": "20111104040302",
+   "type": "text/html",
+   "bytes": 44071
+  }
+ },
+ "failed": {
+  "http://elec.sch.ac.kr/jwis/images/title_back.jpg": "404 not in wayback",
+  "http://elec.sch.ac.kr/jwis/images/menu_back.jpg": "404 not in wayback",
+  "http://elec.sch.ac.kr/jwis/images/right_back.jpg": "404 not in wayback",
+  "http://elec.sch.ac.kr/jwis/images/bottom_back.jpg": "404 not in wayback",
+  "http://elec.sch.ac.kr/jwis/index_1.html": "404 not in wayback",
+  "http://elec.sch.ac.kr/jwis/images/bg.gif": "404 not in wayback",
+  "http://elec.sch.ac.kr/jwis/images/main_back.jpg": "404 not in wayback",
+  "http://elec.sch.ac.kr/jwis/index.html": "404 not in wayback",
+  "http://elec.sch.ac.kr/jwis/organ.html": "404 not in wayback",
+  "http://elec.sch.ac.kr/jwis/impodate.html": "404 not in wayback",
+  "http://elec.sch.ac.kr/jwis/keynote.html": "404 not in wayback",
+  "http://elec.sch.ac.kr/jwis/submission.html": "404 not in wayback",
+  "http://elec.sch.ac.kr/jwis/registration.html": "404 not in wayback",
+  "http://elec.sch.ac.kr/jwis/accomm.html": "404 not in wayback",
+  "http://elec.sch.ac.kr/jwis/geninfo.html": "404 not in wayback",
+  "http://elec.sch.ac.kr/jwis/venue.html": "404 not in wayback",
+  "http://elec.sch.ac.kr/jwis/invite.html": "404 not in wayback",
+  "http://elec.sch.ac.kr/jwis/tutorial.html": "404 not in wayback",
+  "http://elec.sch.ac.kr/jwis/paper_list.html": "404 not in wayback",
+  "http://elec.sch.ac.kr/jwis/jwis_cfp.pdf": "404 not in wayback",
+  "http://elec.sch.ac.kr/jwis/images/bullet_01.gif": "404 not in wayback"
+ },
+ "unfetched_queue": []
+}

@@ -1,0 +1,95 @@
+{
+ "start": "http://ipsr.ynu.ac.jp/asiajcis2016/",
+ "requested_ts": "20161001000000",
+ "scope": "http://ipsr.ynu.ac.jp/asiajcis2016/",
+ "fetched": {
+  "http://ipsr.ynu.ac.jp/asiajcis2016/": {
+   "local": "index.html",
+   "ts": "20160917234441",
+   "type": "text/html",
+   "bytes": 6187
+  },
+  "http://ipsr.ynu.ac.jp/asiajcis2016/index.css": {
+   "local": "index.css",
+   "ts": "20160414131741",
+   "type": "text/css",
+   "bytes": 3711
+  },
+  "http://ipsr.ynu.ac.jp/asiajcis2016/index.html": {
+   "local": "index.html",
+   "ts": "20160917234633",
+   "type": "text/html",
+   "bytes": 6187
+  },
+  "http://ipsr.ynu.ac.jp/asiajcis2016/cfp.html": {
+   "local": "cfp.html",
+   "ts": "20160409200532",
+   "type": "text/html",
+   "bytes": 3438
+  },
+  "http://ipsr.ynu.ac.jp/asiajcis2016/cfpo.html": {
+   "local": "cfpo.html",
+   "ts": "20170422140506",
+   "type": "text/html",
+   "bytes": 4060
+  },
+  "http://ipsr.ynu.ac.jp/asiajcis2016/organization.html": {
+   "local": "organization.html",
+   "ts": "20170422135933",
+   "type": "text/html",
+   "bytes": 9848
+  },
+  "http://ipsr.ynu.ac.jp/asiajcis2016/program.html": {
+   "local": "program.html",
+   "ts": "20160917221914",
+   "type": "text/html",
+   "bytes": 14212
+  },
+  "http://ipsr.ynu.ac.jp/asiajcis2016/submission.html": {
+   "local": "submission.html",
+   "ts": "20160409200441",
+   "type": "text/html",
+   "bytes": 3104
+  },
+  "http://ipsr.ynu.ac.jp/asiajcis2016/contact.html": {
+   "local": "contact.html",
+   "ts": "20160409200537",
+   "type": "text/html",
+   "bytes": 1400
+  },
+  "http://ipsr.ynu.ac.jp/asiajcis2016/acceptposters.html": {
+   "local": "acceptposters.html",
+   "ts": "20170422135916",
+   "type": "text/html",
+   "bytes": 2468
+  },
+  "http://ipsr.ynu.ac.jp/asiajcis2016/acceptpapers.html": {
+   "local": "acceptpapers.html",
+   "ts": "20170422135908",
+   "type": "text/html",
+   "bytes": 4912
+  },
+  "http://ipsr.ynu.ac.jp/asiajcis2016/img/head_bg2016.png": {
+   "local": "img/head_bg2016.png",
+   "ts": "20160414131742",
+   "type": "image/png",
+   "bytes": 361788
+  },
+  "http://ipsr.ynu.ac.jp/asiajcis2016/img/nav_bg.png": {
+   "local": "img/nav_bg.png",
+   "ts": "20160414131742",
+   "type": "image/png",
+   "bytes": 31500
+  },
+  "http://ipsr.ynu.ac.jp/asiajcis2016/registration.html": {
+   "local": "registration.html",
+   "ts": "20160409200542",
+   "type": "text/html",
+   "bytes": 5006
+  }
+ },
+ "failed": {
+  "http://ipsr.ynu.ac.jp/asiajcis2016/CFP-ASIAJCIS2016_revised20160317.pdf": "404 not in wayback"
+ },
+ "unfetched_queue": []
+}

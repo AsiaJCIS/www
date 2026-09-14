@@ -1,0 +1,106 @@
+{
+ "start": "http://asiajcis2015.cse.nsysu.edu.tw/",
+ "requested_ts": "20150412045117",
+ "scope": "http://asiajcis2015.cse.nsysu.edu.tw/",
+ "fetched": {
+  "http://asiajcis2015.cse.nsysu.edu.tw/": {
+   "local": "index.html",
+   "ts": "20150411005138",
+   "type": "text/html",
+   "bytes": 4744
+  },
+  "http://asiajcis2015.cse.nsysu.edu.tw/index.html": {
+   "local": "index.html",
+   "ts": "20150412045103",
+   "type": "text/html",
+   "bytes": 4744
+  },
+  "http://asiajcis2015.cse.nsysu.edu.tw/updates.html": {
+   "local": "updates.html",
+   "ts": "20150411005200",
+   "type": "text/html",
+   "bytes": 2786
+  },
+  "http://asiajcis2015.cse.nsysu.edu.tw/cfp.html": {
+   "local": "cfp.html",
+   "ts": "20150412045205",
+   "type": "text/html",
+   "bytes": 5210
+  },
+  "http://asiajcis2015.cse.nsysu.edu.tw/organization.html": {
+   "local": "organization.html",
+   "ts": "20150505220836",
+   "type": "text/html",
+   "bytes": 8442
+  },
+  "http://asiajcis2015.cse.nsysu.edu.tw/program.html": {
+   "local": "program.html",
+   "ts": "20150411004726",
+   "type": "text/html",
+   "bytes": 2461
+  },
+  "http://asiajcis2015.cse.nsysu.edu.tw/submission.html": {
+   "local": "submission.html",
+   "ts": "20150411005145",
+   "type": "text/html",
+   "bytes": 3779
+  },
+  "http://asiajcis2015.cse.nsysu.edu.tw/registration.html": {
+   "local": "registration.html",
+   "ts": "20150411004730",
+   "type": "text/html",
+   "bytes": 3462
+  },
+  "http://asiajcis2015.cse.nsysu.edu.tw/venue.html": {
+   "local": "venue.html",
+   "ts": "20150412045117",
+   "type": "text/html",
+   "bytes": 2387
+  },
+  "http://asiajcis2015.cse.nsysu.edu.tw/travel.html": {
+   "local": "travel.html",
+   "ts": "20150412045112",
+   "type": "text/html",
+   "bytes": 3309
+  },
+  "http://asiajcis2015.cse.nsysu.edu.tw/contact.html": {
+   "local": "contact.html",
+   "ts": "20150412045057",
+   "type": "text/html",
+   "bytes": 3201
+  }
+ },
+ "failed": {
+  "http://asiajcis2015.cse.nsysu.edu.tw/img/text-6-2.jpg": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/images/nav01.png": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/images/nav11.png": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/images/nav02.png": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/images/nav03.png": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/images/nav04.png": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/images/nav05.png": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/images/nav06.png": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/images/nav07.png": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/images/nav08.png": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/images/nav09.png": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/img/CCISA.png": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/img/nsysu.jpg": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/image/imageover.js": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/image/v1.css": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/img/text-11-2.jpg": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/img/formosa-5": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/Call for Papers2.pdf": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/img/formosa-6": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/img/text-7.jpg": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/img/text-9.jpg": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/img/text-10.jpg": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/img/travel-1-2": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/img/travel-2": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/img/travel-3": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/img/travel-4": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/img/travel-5": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/img/travel-6": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/img/travel-7": "404 not in wayback",
+  "http://asiajcis2015.cse.nsysu.edu.tw/img/travel-8": "404 not in wayback"
+ },
+ "unfetched_queue": []
+}

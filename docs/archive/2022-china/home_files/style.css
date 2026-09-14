@@ -1,0 +1,117 @@
+body {
+    margin-top: 8px;
+    background-color: #e7e7e7;
+}
+
+#main {
+    width: 1000px;
+    margin: auto;
+    background-color: #ffffff;
+}
+
+#header {
+    position: relative;
+    height: 400px;
+    padding-top: 0.1em;
+    padding-left: 0.5em;
+    padding-right: 0.5em;
+    padding-bottom: 0em;
+    color: #fff5f5;
+    line-height: 1.6em;
+    background: transparent url(header.html) no-repeat center center;
+    background-size: cover;
+}
+
+#header div {
+    width: 100%;
+    position: absolute;
+    text-align: center;
+    top: 285px;
+    left: 0px;
+    background-color: rgba(44, 44, 44, 0.5);
+}
+
+#header div h1 {
+    font-weight: 400;
+}
+
+#nav {
+    width: 100%;
+    position: relative;
+    z-index: 100;
+}
+
+#nav ul {
+    position: relative;
+    top: -1px;
+    display: flex;
+    margin: 0 auto;
+    justify-content: space-between;
+    background-color: rgba(44, 44, 44, 0.5);
+}
+
+#nav ul li {
+    list-style: none;
+}
+
+#nav ul li a {
+    color: rgb(0, 0, 0);
+    text-decoration: none;
+    display: block;
+    padding: 10px 15px;
+}
+
+#nav ul li a:hover {
+    background-color: rgb(18, 135, 180);
+    color: rgb(255, 255, 255);
+}
+
+#content {
+    margin-left: 30px;
+    margin-top: 15px;
+}
+
+#summary table th {
+    width: 190px;
+    text-align: left;
+    vertical-align: top;
+    font-size: 21px;
+}
+
+#summary table #dates {
+    padding: 5px 10px;
+    margin: 0;
+}
+
+#summary table tr {
+    height: 50px;
+}
+
+#summary table td {
+    vertical-align: top;
+}
+
+#summary table #dates ul li {
+    padding: 5px 5px;
+}
+
+#summary table img {
+    width: 100px;
+    height: 100px;
+}
+
+#footer {
+    background-color: #333333;
+    height: 40px;
+    text-align: center;
+    line-height: 40px;
+}
+
+#footer p {
+    color: #dadada;
+}
+
+#footer p a {
+    color: #dadada;
+    font-size: 18px;
+}
