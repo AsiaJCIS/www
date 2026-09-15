@@ -1,5 +1,4 @@
 User-agent: *
 Allow: /
-Disallow: /archive/
 
 Sitemap: https://asiajcis.github.io/www/sitemap.xml

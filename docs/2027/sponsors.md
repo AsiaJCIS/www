@@ -47,3 +47,7 @@ All sponsorships are subject to acceptance by the organizers. Please also see ou
 ### Sponsors & Supporters
 
 Sponsors and individual supporters will be listed here (with their consent) as they are confirmed.
+
+**Supported by**
+
+- [Technical Committee on Information and Communication System Security (ICSS), IEICE](https://icss.ieice.org/)

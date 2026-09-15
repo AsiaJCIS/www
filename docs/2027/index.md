@@ -44,6 +44,12 @@ See the [Committee](committee.md) page for the full list.
 
 ---
 
+## Supported by
+
+- [Technical Committee on Information and Communication System Security (ICSS), IEICE](https://icss.ieice.org/)
+
+---
+
 ## Become a Sponsor
 
 We invite companies and organizations to partner with AsiaJCIS 2027. Sponsorship is a great way to support the information security research community across Asia and to connect with researchers and practitioners from Japan, Korea, Taiwan, China, and beyond — while giving your organization visibility on our website and at the venue.

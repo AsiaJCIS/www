@@ -13,3 +13,4 @@ For any inquiries about AsiaJCIS 2027, please use our online inquiry form. We wi
 | Publication and camera-ready | Publication Co-Chairs (see [Committee](2027/committee.md)) |
 | Sponsorship | See [Call for Sponsors](2027/sponsors.md) |
 | Visa and letter of invitation | See [Travel &amp; Visa](2027/travel.md) |
+| This website or the archived past-conference pages (errors, broken links, correction or removal requests) | [Open an issue on GitHub](https://github.com/AsiaJCIS/www/issues) |
