@@ -21,9 +21,9 @@ Areas of interest include, but are not limited to:
 
 ### Instructions for Authors
 
-Authors are invited to submit original papers that have not been published and are not under review elsewhere. Submissions must not substantially duplicate work that any of the authors have published or submitted in parallel to any other venue with proceedings. All submissions are screened for plagiarism and self-plagiarism, and must comply with the [IEEE publication and author ethics policies](https://www.ieee.org/publications/rights/plagiarism/plagiarism.html).
+Authors are invited to submit original papers that have not been published and are not under review elsewhere. Submissions must not substantially duplicate work that any of the authors have published or submitted in parallel to any other venue with proceedings. All submissions are screened for plagiarism and self-plagiarism, and must follow generally accepted publication and author-ethics standards (no plagiarism or self-plagiarism, no concurrent submission, proper attribution of prior work).
 
-**Format.** Papers must be written in English and submitted in PDF format, prepared in the standard IEEE two-column conference format (US Letter, 8.5" × 11"). Papers are limited to **8 pages**, with up to **2 additional pages** permitted at an extra charge. The official template will be linked from the [Submission](submission.md) page.
+**Format.** Papers must be written in English and submitted in PDF format, prepared with the official conference template (two-column, US Letter, 8.5" × 11"). Papers are limited to **8 pages**, with up to **2 additional pages** permitted at an extra charge. The official template will be linked from the [Submission](submission.md) page.
 
 **Review.** AsiaJCIS adopts a **double-blind** peer review: submitted manuscripts must be anonymized, with no author names, affiliations, acknowledgements, or obvious self-references. Each submission is reviewed by at least three Program Committee members. The Program Committee is organized across Japan, China, Korea, and Taiwan, and reviews are assigned across countries to ensure independence.
 
@@ -51,7 +51,7 @@ The submission site (EasyChair) will be announced shortly. Papers must be submit
 
 ### Publication
 
-All accepted papers are published in the AsiaJCIS 2027 conference proceedings (via EasyChair). **Selected papers** are, instead, published through IEEE Conference Publishing Services (CPS) and submitted for possible inclusion in IEEE Xplore (AsiaJCIS 2027 is not sponsored by the IEEE; Xplore inclusion is subject to IEEE review and is not guaranteed).
+All accepted papers are published in the **AsiaJCIS 2027 conference proceedings**, an open-access volume of the *EPiC Series in Computing* (EasyChair), with a DOI for each paper — the same route used for AsiaJCIS 2025 and 2026. Each contribution appears in a single proceedings.
 
 See [Submission Policies and Instructions](submission.md#publication-and-proceedings) for details.
 

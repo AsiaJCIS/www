@@ -6,7 +6,7 @@ AsiaJCIS 2027 invites poster submissions showcasing ongoing research, preliminar
 
 ### Submission Guidelines
 
-- Poster abstracts: **up to 2 pages** (IEEE format)
+- Poster abstracts: **up to 2 pages**, using the same template as papers
 - Submissions must be in **PDF format**
 
 ### Submission Site

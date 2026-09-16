@@ -21,19 +21,19 @@ Official-site addresses are shown as plain text because these host sites may go 
 |------|---------|----------|---------------|---------|------|-------------|
 | 2026 | 21st | Dongguan, China | asiajcis2026.gdust.edu.cn | [archived](archive/2026-china/index.html) | — | [EasyChair (EPiC 111)](https://easychair.org/publications/volume/AsiaJCIS_2026) |
 | 2025 | 20th | Seoul, Korea | asiajcis2025.sch.ac.kr | [archived](archive/2025-korea/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2025.html) | [EasyChair (EPiC 106)](https://easychair.org/publications/volume/AsiaJCIS_2025) |
-| 2024 | 19th | Tainan, Taiwan | asiajcis2024.web2.ncku.edu.tw | [archived](archive/2024-taiwan/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2024.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/10716816/proceeding) |
-| 2023 | 18th | Tokyo, Japan | asiajcis2023.nict.go.jp | [archived](archive/2023-japan/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2023.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/10367786/proceeding) |
-| 2022 | 17th | Baoding, China | cs.hbu.edu.cn/asiajcis2022 | [archived](archive/2022-china/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2022.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/10071143/proceeding) |
-| 2021 | 16th | Seoul, Korea | asiajcis2021.sch.ac.kr | [archived](archive/2021-korea/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2021.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/9546841/proceeding) |
-| 2020 | 15th | Taipei, Taiwan | asiajcis2020.cs.nccu.edu.tw | [archived](archive/2020-taiwan/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2020.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/9186508/proceeding) |
-| 2019 | 14th | Kobe, Japan | klab.is.sci.toho-u.ac.jp/asiajcis2019 | [archived](archive/2019-japan/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2019.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/8797685/proceeding) |
-| 2018 | 13th | Guilin, China | gcis.guet.edu.cn/asiajcis2018 | [archived](archive/2018-china/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2018.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/8453224/proceeding) |
-| 2017 | 12th | Seoul, Korea | asiajcis.sch.ac.kr | [archived](archive/2017-korea/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2017.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/8025185/proceeding) |
-| 2016 | 11th | Fukuoka, Japan | ipsr.ynu.ac.jp/asiajcis2016 | [archived](archive/2016-japan/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2016.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/7781470/proceeding) |
-| 2015 | 10th | Kaohsiung, Taiwan | asiajcis2015.cse.nsysu.edu.tw | [archived](archive/2015-taiwan/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2015.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/7153314/proceeding) |
-| 2014 | 9th  | Wuhan, China | is.hbut.edu.cn/asiajcis2014 | [archived](archive/2014-china/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2014.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/7001440/proceeding) |
-| 2013 | 8th  | Seoul, Korea | asiajcis.org/2013 | [archived](archive/2013-korea/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2013.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/6621628/proceeding) |
-| 2012 | 7th  | Tokyo, Japan | cs.dm.u-tokai.ac.jp/ASIAJCIS2012 (now at kikn.fms.meiji.ac.jp/ASIAJCIS2012) | [archived](archive/2012-japan/index.html) · [live copy](https://www.kikn.fms.meiji.ac.jp/ASIAJCIS2012/) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2012.html) | [IEEE Xplore](https://ieeexplore.ieee.org/xpl/conhome/6296578/proceeding) |
+| 2024 | 19th | Tainan, Taiwan | asiajcis2024.web2.ncku.edu.tw | [archived](archive/2024-taiwan/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2024.html) | see DBLP |
+| 2023 | 18th | Tokyo, Japan | asiajcis2023.nict.go.jp | [archived](archive/2023-japan/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2023.html) | see DBLP |
+| 2022 | 17th | Baoding, China | cs.hbu.edu.cn/asiajcis2022 | [archived](archive/2022-china/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2022.html) | see DBLP |
+| 2021 | 16th | Seoul, Korea | asiajcis2021.sch.ac.kr | [archived](archive/2021-korea/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2021.html) | see DBLP |
+| 2020 | 15th | Taipei, Taiwan | asiajcis2020.cs.nccu.edu.tw | [archived](archive/2020-taiwan/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2020.html) | see DBLP |
+| 2019 | 14th | Kobe, Japan | klab.is.sci.toho-u.ac.jp/asiajcis2019 | [archived](archive/2019-japan/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2019.html) | see DBLP |
+| 2018 | 13th | Guilin, China | gcis.guet.edu.cn/asiajcis2018 | [archived](archive/2018-china/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2018.html) | see DBLP |
+| 2017 | 12th | Seoul, Korea | asiajcis.sch.ac.kr | [archived](archive/2017-korea/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2017.html) | see DBLP |
+| 2016 | 11th | Fukuoka, Japan | ipsr.ynu.ac.jp/asiajcis2016 | [archived](archive/2016-japan/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2016.html) | see DBLP |
+| 2015 | 10th | Kaohsiung, Taiwan | asiajcis2015.cse.nsysu.edu.tw | [archived](archive/2015-taiwan/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2015.html) | see DBLP |
+| 2014 | 9th  | Wuhan, China | is.hbut.edu.cn/asiajcis2014 | [archived](archive/2014-china/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2014.html) | see DBLP |
+| 2013 | 8th  | Seoul, Korea | asiajcis.org/2013 | [archived](archive/2013-korea/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2013.html) | see DBLP |
+| 2012 | 7th  | Tokyo, Japan | cs.dm.u-tokai.ac.jp/ASIAJCIS2012 (now at kikn.fms.meiji.ac.jp/ASIAJCIS2012) | [archived](archive/2012-japan/index.html) · [live copy](https://www.kikn.fms.meiji.ac.jp/ASIAJCIS2012/) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2012.html) | see DBLP |
 | 2011 | 6th  | Kaohsiung, Taiwan | sites.google.com/site/jwis2011 | [archived](archive/2011-taiwan/index.html) | — | — |
 | 2010 | 5th  | Guangzhou, China | xy.scau.edu.cn/info/jwis2010 | [archived](archive/2010-china/index.html) | — | — |
 | 2009 | 4th  | Kaohsiung, Taiwan | jwis2009.nsysu.edu.tw | [archived](archive/2009-taiwan/index.html) | — | — |
@@ -41,7 +41,7 @@ Official-site addresses are shown as plain text because these host sites may go 
 | 2007 | 2nd  | Tokyo, Japan | ieice.org/~icss/jwis2007 | [archived](archive/2007-japan/index.html) | — | — |
 | 2006 | 1st  | Seoul, Korea | elec.sch.ac.kr/jwis | [archived](archive/2006-korea/index.html) | — | — |
 
-Editions from 2006 to 2011 (1st–6th) were held under the predecessor name **JWIS (Joint Workshop on Information Security)**; the event was renamed AsiaJCIS from 2012. DBLP indexes the proceedings from 2012 onward, and the IEEE-published editions (2012–2024) are listed on IEEE Xplore.
+Editions from 2006 to 2011 (1st–6th) were held under the predecessor name **JWIS (Joint Workshop on Information Security)**; the event was renamed AsiaJCIS from 2012. DBLP indexes the proceedings from 2012 onward.
 
 ---
 
@@ -59,4 +59,4 @@ The conference covers a broad range of topics in information security, including
 
 ### Program and Proceedings
 
-The conference adopts a double-blind peer review process, and since 2023 the technical program has included both **regular papers and short papers**. Proceedings of the IEEE-published editions (2012–2024) are available on **IEEE Xplore** and indexed by **DBLP** from 2012 onward; the most recent editions have been published via **EasyChair**. Per-year links are listed in the table above.
+The conference adopts a double-blind peer review process, and since 2023 the technical program has included both **regular papers and short papers**. Proceedings from 2012 onward are indexed by **DBLP**; the most recent editions (2025–) are published via **EasyChair** (EPiC Series in Computing). Per-year links are listed in the table above.

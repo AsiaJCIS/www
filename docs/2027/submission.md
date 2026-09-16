@@ -8,7 +8,7 @@ This page gives the detailed submission policies for AsiaJCIS 2027. For scope, t
 ## Formatting
 
 - Papers must be written in **English** and submitted as a **PDF**.
-- Use the standard **IEEE two-column conference format**, US Letter (8.5" × 11").
+- Use the **official conference template** (two-column, US Letter, 8.5" × 11"), to be linked here.
 - **Papers:** up to **8 pages**, including references and appendices, with up to **2 additional pages** permitted at an extra charge. (After acceptance, the Program Committee decides whether each paper is presented as a regular or a short paper.)
 - **Posters:** up to **2 pages** (extended abstract) — see the [Call for Posters](cfp-posters.md).
 - Submissions that ignore the formatting rules may be rejected without review.
@@ -27,7 +27,7 @@ Submissions must be **original** and must not substantially overlap with work th
 
 ## Plagiarism and research ethics
 
-All submissions are screened for plagiarism and self-plagiarism, and must comply with the [IEEE plagiarism and author-ethics policies](https://www.ieee.org/publications/rights/plagiarism/plagiarism.html). Work involving human subjects, personal data, vulnerability disclosure, or other sensitive material is expected to follow responsible research practices; authors should describe how ethical concerns were handled.
+All submissions are screened for plagiarism and self-plagiarism, and must follow generally accepted publication and author-ethics standards (no plagiarism or self-plagiarism, no concurrent submission, proper attribution of prior work). Work involving human subjects, personal data, vulnerability disclosure, or other sensitive material is expected to follow responsible research practices; authors should describe how ethical concerns were handled.
 
 ## Conflicts of interest
 
@@ -35,11 +35,9 @@ Authors and reviewers are expected to declare conflicts of interest (e.g., recen
 
 ## Publication and proceedings
 
-- **All accepted papers** are published in the **AsiaJCIS 2027 conference proceedings (via EasyChair)**.
-- **Selected papers** are, instead, published through **IEEE Conference Publishing Services (CPS)** and submitted for possible inclusion in **IEEE Xplore**.
-- AsiaJCIS 2027 is **not sponsored by the IEEE**. Content submitted to IEEE Xplore is subject to review based on IEEE scope and quality requirements, and **inclusion in IEEE Xplore is not guaranteed**.
+- **All accepted papers** are published in the **AsiaJCIS 2027 conference proceedings**, an open-access volume of the *EPiC Series in Computing* (EasyChair) with a DOI for each paper — the same route used for AsiaJCIS 2025 and 2026.
 - Each contribution appears in a **single** proceedings — no paper is published in more than one archival venue.
-- All accepted submissions require an **IEEE copyright** assignment for the version submitted to IEEE, handled during the camera-ready process.
+- The publication agreement for the final version is handled during the camera-ready process.
 
 ## Presentation requirement
 
@@ -47,4 +45,4 @@ At least one author of each accepted paper must **register** and give an **oral 
 
 ## Camera-ready
 
-Instructions for preparing and submitting the final (camera-ready) version — template, copyright, and the IEEE PDF requirements — will be provided to authors of accepted papers after notification.
+Instructions for preparing and submitting the final (camera-ready) version — template, publication agreement, and PDF requirements — will be provided to authors of accepted papers after notification.
