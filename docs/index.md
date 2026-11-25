@@ -19,7 +19,7 @@ Official-site addresses are shown as plain text because these host sites may go 
 
 | Year | Edition | Location | Official Site | Archive | DBLP | Proceedings |
 |------|---------|----------|---------------|---------|------|-------------|
-| 2026 | 21st | Dongguan, China | asiajcis2026.gdust.edu.cn | [archived](archive/2026-china/index.html) | — | [EasyChair (EPiC 111)](https://easychair.org/publications/volume/AsiaJCIS_2026) |
+| 2026 | 21st | Dongguan, China | asiajcis2026.gdust.edu.cn | [archived](archive/2026-china/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2026.html) | [EasyChair (EPiC 111)](https://easychair.org/publications/volume/AsiaJCIS_2026) |
 | 2025 | 20th | Seoul, Korea | asiajcis2025.sch.ac.kr | [archived](archive/2025-korea/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2025.html) | [EasyChair (EPiC 106)](https://easychair.org/publications/volume/AsiaJCIS_2025) |
 | 2024 | 19th | Tainan, Taiwan | asiajcis2024.web2.ncku.edu.tw | [archived](archive/2024-taiwan/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2024.html) | see DBLP |
 | 2023 | 18th | Tokyo, Japan | asiajcis2023.nict.go.jp | [archived](archive/2023-japan/index.html) | [DBLP](https://dblp.org/db/conf/asiajcis/asiajcis2023.html) | see DBLP |
