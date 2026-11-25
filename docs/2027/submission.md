@@ -2,14 +2,15 @@
 
 This page gives the detailed submission policies for AsiaJCIS 2027. For scope, topics, and dates, see the [Call for Papers](cfp.md); posters are solicited separately in the [Call for Posters](cfp-posters.md).
 
-!!! warning "Submission system not yet open"
-    The submission site (EasyChair) and the official paper template will be linked here as soon as they are available.
+!!! info "Submission site is open"
+    Submit your paper through EasyChair: <https://easychair.org/conferences/?conf=asiajcis2027>
 
 ## Formatting
 
 - Papers must be written in **English** and submitted as a **PDF**.
-- Use the **official conference template** (two-column, US Letter, 8.5" × 11"), to be linked here.
-- **Papers:** up to **8 pages**, including references and appendices, with up to **2 additional pages** permitted at an extra charge. (After acceptance, the Program Committee decides whether each paper is presented as a regular or a short paper.)
+- Use the **EasyChair (EPiC Series) template**: LaTeX `easychair.cls` or the Word template, both available from the [EasyChair author instructions](https://easychair.org/publications/for_authors). The layout is **single-column** (US Letter or A4).
+- **Papers:** up to **16 pages**, including references and appendices. (After acceptance, the Program Committee decides whether each paper is presented as a regular or a short paper.)
+- For double-blind review, leave the author and affiliation fields of the template empty or replace them with "Anonymous".
 - **Posters:** up to **2 pages** (extended abstract) — see the [Call for Posters](cfp-posters.md).
 - Submissions that ignore the formatting rules may be rejected without review.
 

@@ -23,7 +23,7 @@ Areas of interest include, but are not limited to:
 
 Authors are invited to submit original papers that have not been published and are not under review elsewhere. Submissions must not substantially duplicate work that any of the authors have published or submitted in parallel to any other venue with proceedings. All submissions are screened for plagiarism and self-plagiarism, and must follow generally accepted publication and author-ethics standards (no plagiarism or self-plagiarism, no concurrent submission, proper attribution of prior work).
 
-**Format.** Papers must be written in English and submitted in PDF format, prepared with the official conference template (two-column, US Letter, 8.5" × 11"). Papers are limited to **8 pages**, with up to **2 additional pages** permitted at an extra charge. The official template will be linked from the [Submission](submission.md) page.
+**Format.** Papers must be written in English and submitted in PDF format, prepared with the **EasyChair (EPiC Series) template** (single-column; LaTeX `easychair.cls` or Word), available from the [EasyChair author instructions](https://easychair.org/publications/for_authors). Papers are limited to **16 pages**, including references and appendices. See the [Submission](submission.md) page for details.
 
 **Review.** AsiaJCIS adopts a **double-blind** peer review: submitted manuscripts must be anonymized, with no author names, affiliations, acknowledgements, or obvious self-references. Each submission is reviewed by at least three Program Committee members. The Program Committee is organized across Japan, China, Korea, and Taiwan, and reviews are assigned across countries to ensure independence.
 
@@ -47,7 +47,7 @@ Submissions that ignore these guidelines may be rejected without review.
 
 ### Submission Site
 
-The submission site (EasyChair) will be announced shortly. Papers must be submitted in PDF format through EasyChair.
+Papers must be submitted in PDF format through EasyChair: <https://easychair.org/conferences/?conf=asiajcis2027>
 
 ### Publication
 
