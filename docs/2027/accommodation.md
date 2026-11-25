@@ -13,5 +13,4 @@
 
 ### Tips
 
-- Early booking is recommended.
-- Please mention "AsiaJCIS 2027" when booking if a group rate is available.
+- The conference does **not** arrange a group rate or room block. Please book your accommodation directly with the hotel or through a booking site.
