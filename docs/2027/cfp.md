@@ -58,3 +58,8 @@ See [Submission Policies and Instructions](submission.md#publication-and-proceed
 ### Committees
 
 See the [Committee](committee.md) page for the full list of chairs and committee members.
+
+### Also Listed On
+
+- [WikiCFP](http://www.wikicfp.com/cfp/servlet/event.showcfp?eventid=202719)
+- [EasyChair Smart CFP](https://easychair.org/cfp/AsiaJCIS2027)
