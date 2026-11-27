@@ -99,7 +99,7 @@
 - Keundug Park — Seoul University of Foreign Studies, Korea
 - Der-Tsai Lee — Academia Sinica, Taiwan
 - Tzong-Chen Wu — National Taiwan University of Science and Technology, Taiwan
-- Shiuhpyng Shieh — National Chiao Tung University, Taiwan
+- Shiuhpyng Shieh — National Yang Ming Chiao Tung University, Taiwan
 - D. J. Guan — National Sun Yat-sen University, Taiwan
 - Chun-I Fan — National Sun Yat-sen University, Taiwan
 - Kouichi Sakurai — Kyushu University, Japan
