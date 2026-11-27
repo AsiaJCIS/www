@@ -37,7 +37,7 @@ This conference focuses on the technical and practical aspects of security appli
 ## Organizers
 
 - **General Co-Chairs:** Yong Ding (China), Heung Youl Youm (Korea), Hung-Min Sun (Taiwan), Koji Nakao (Japan)
-- **Program Co-Chairs:** Changsong Yang (China), Hyunwoo Choi (Korea), Ming-Hung Wang (Taiwan), Akira Yamada (Japan)
+- **Program Co-Chairs:** Changsong Yang (China), Hyunwoo Choi (Korea), Yun-Hsin Chuang (Taiwan), Akira Yamada (Japan)
 - **Local Organization Chair:** Rui Tanabe (Juntendo University)
 
 See the [Committee](committee.md) page for the full list.

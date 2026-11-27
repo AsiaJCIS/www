@@ -13,7 +13,7 @@
 
 - Changsong Yang — Guilin University of Electronic Technology, China
 - Hyunwoo Choi — Sungshin Women's University, Korea
-- Ming-Hung Wang — National Chung Cheng University, Taiwan
+- Yun-Hsin Chuang — National Cheng Kung University, Taiwan
 - Akira Yamada — University of Hyogo, Japan
 
 ### Publication Co-Chairs
